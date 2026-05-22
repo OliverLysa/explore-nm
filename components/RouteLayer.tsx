@@ -45,7 +45,7 @@ export default function RouteLayer({
       console.log("GeoJSON:", geojson)
 
       routeLayer = L.geoJSON(geojson, {
-        filter: (feature: any) => {
+        filter: (feature) => {
           return (
             feature.geometry.type ===
               "LineString" ||

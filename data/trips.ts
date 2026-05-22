@@ -1,14 +1,25 @@
 export interface Trip {
   slug: string
   title: string
- location: string
+  location: string
+
   lat: number
   lng: number
+
   description: string
 
   routeFile?: string
   distance?: string
   elevation?: string
+
+  photos?: {
+    lat: number
+    lng: number
+
+    image: string
+
+    caption: string
+  }[]
 }
 
 export const trips: Trip[] = [
@@ -16,7 +27,7 @@ export const trips: Trip[] = [
     slug: "apache-kid-trail-43",
 
     title:
-      "West Blue Mountain via Apache Kid Trail #43",
+      "Apache Kid Trail #43",
 
     location:
       "San Mateo Mountains, New Mexico",
@@ -32,9 +43,44 @@ export const trips: Trip[] = [
     routeFile:
       "/routes/apache-kid-43.gpx",
 
-    distance: "9.0 mi",
+    distance: "22.0 mi",
 
-    elevation: "3,955 ft gain"
+    elevation: "3,955 ft gain",
+
+    photos: [
+  {
+    lat: 33.65963214480833,
+    lng: -107.43738847089666,
+
+    image:
+      "/images/blue-mountain-summit.jpeg",
+
+    caption:
+      "Summit before West Blue Mountain"
+  },
+
+  {
+    lat: 33.62564217729925,
+    lng: -107.42175079929393,
+
+    image:
+      "/images/twentyfive-yard-spring.jpeg",
+
+    caption:
+      "Water source"
+  },
+   {
+    lat: 33.6505323438008,
+    lng: -107.42563443152937,
+
+    image:
+      "/images/cyclone-saddle.jpeg",
+
+    caption:
+      "Cyclone saddle"
+  }
+]
+
   },
 
   {

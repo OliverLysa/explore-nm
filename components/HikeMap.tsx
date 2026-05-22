@@ -19,23 +19,34 @@ import { trips, Trip } from "../data/trips"
 
 // Marker icon
 const icon = new L.Icon({
-  iconUrl:
-    "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon.png",
+  iconUrl: "/icons/hiking-marker.svg",
 
-  iconRetinaUrl:
-    "https://unpkg.com/leaflet@1.9.4/dist/images/marker-icon-2x.png",
+  iconSize: [36, 36],
 
-  shadowUrl:
-    "https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png",
+  iconAnchor: [18, 36],
 
-  iconSize: [25, 41],
+  popupAnchor: [0, -36]
+})
 
-  iconAnchor: [12, 41]
+const photoIcon = new L.Icon({
+  iconUrl: "/icons/photo-marker.svg",
+
+  iconSize: [30, 30],
+
+  iconAnchor: [15, 30],
+
+  popupAnchor: [0, -30]
 })
 
 export default function HikeMap() {
   const [selectedTrip, setSelectedTrip] =
     useState<Trip | null>(null)
+
+  const [showRoutes, setShowRoutes] =
+    useState(true)
+
+const [fullscreenImage, setFullscreenImage] =
+    useState<string | null>(null) 
 
   return (
     <div
@@ -50,7 +61,7 @@ export default function HikeMap() {
         <div
           style={{
             position: "absolute",
-            top: 20,
+            top: 80,
             right: 20,
             zIndex: 1000,
             background: "white",
@@ -62,23 +73,23 @@ export default function HikeMap() {
           }}
         >
           {/* Close button */}
-<button
-  onClick={() =>
-    setSelectedTrip(null)
-  }
+          <button
+            onClick={() =>
+              setSelectedTrip(null)
+            }
 
-  style={{
-    border: "none",
-    background: "#f3f3f3",
-    padding: "8px 12px",
-    borderRadius: "8px",
-    cursor: "pointer",
-    marginBottom: "16px",
-    fontWeight: "bold"
-  }}
->
-  ← Back to map
-</button>
+            style={{
+              border: "none",
+              background: "#f3f3f3",
+              padding: "8px 12px",
+              borderRadius: "8px",
+              cursor: "pointer",
+              marginBottom: "16px",
+              fontWeight: "bold"
+            }}
+          >
+            ← Back to map
+          </button>
 
           <h2
             style={{
@@ -108,6 +119,103 @@ export default function HikeMap() {
         </div>
       )}
 
+{/* Legend */}
+<div
+  onClick={() =>
+    setShowRoutes(!showRoutes)
+  }
+
+  style={{
+    position: "absolute",
+    top: 20,
+    right: 20,
+    zIndex: 1000,
+
+    background: "rgba(255,255,255,0.95)",
+
+    padding: "12px 16px",
+
+    borderRadius: "14px",
+
+    boxShadow:
+      "0 4px 14px rgba(0,0,0,0.18)",
+
+    display: "flex",
+
+    alignItems: "center",
+
+    gap: "12px",
+
+    fontSize: "15px",
+
+    fontWeight: 600,
+
+    cursor: "pointer",
+
+    opacity: showRoutes ? 1 : 0.5,
+
+    transition: "0.2s"
+  }}
+>
+  <img
+    src="/icons/hiking-marker.svg"
+    alt="Hiking route"
+
+    style={{
+      width: "24px",
+      height: "24px"
+    }}
+  />
+
+  <span>
+    Hiking Routes
+  </span>
+</div>
+
+{/* Fullscreen image modal */}
+{fullscreenImage && (
+  <div
+    onClick={() =>
+      setFullscreenImage(null)
+    }
+
+    style={{
+      position: "fixed",
+      inset: 0,
+      background:
+        "rgba(0,0,0,0.85)",
+
+      zIndex: 5000,
+
+      display: "flex",
+
+      justifyContent: "center",
+
+      alignItems: "center",
+
+      padding: "40px",
+
+      cursor: "pointer"
+    }}
+  >
+    <img
+      src={fullscreenImage}
+
+      alt="Trail photo"
+
+      style={{
+        maxWidth: "95%",
+        maxHeight: "95%",
+
+        borderRadius: "14px",
+
+        boxShadow:
+          "0 10px 40px rgba(0,0,0,0.5)"
+      }}
+    />
+  </div>
+)}
+
       <MapContainer
         center={[33.7, -107.5]}
 
@@ -136,8 +244,53 @@ export default function HikeMap() {
           />
         )}
 
+{/* Photo markers */}
+{selectedTrip?.photos?.map((photo) => (
+  <Marker
+    key={photo.image}
+
+    position={[
+      photo.lat,
+      photo.lng
+    ]}
+
+    icon={photoIcon}
+  >
+    <Popup maxWidth={340}>
+      <div>
+        <img
+  src={photo.image}
+
+  alt={photo.caption}
+
+  onClick={() =>
+    setFullscreenImage(photo.image)
+  }
+
+  style={{
+    width: "100%",
+    borderRadius: "10px",
+    marginBottom: "10px",
+
+    cursor: "pointer"
+  }}
+/>
+
+        <p
+          style={{
+            margin: 0
+          }}
+        >
+          {photo.caption}
+        </p>
+      </div>
+    </Popup>
+  </Marker>
+))}
+
         {/* Trail markers */}
-        {trips.map((trip) => (
+        {showRoutes &&
+  trips.map((trip) => (
           <Marker
             key={trip.slug}
 

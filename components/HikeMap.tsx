@@ -3,10 +3,11 @@
 import { useState } from "react"
 
 import {
-  MapContainer,
-  TileLayer,
-  Marker,
-  Popup
+MapContainer,
+TileLayer,
+Marker,
+Popup,
+Tooltip
 } from "react-leaflet"
 
 import "leaflet/dist/leaflet.css"
@@ -16,6 +17,8 @@ import RouteLayer from "./RouteLayer"
 import L from "leaflet"
 
 import { trips, Trip } from "../data/trips"
+
+import ElevationChart from "./ElevationChart"
 
 // Marker icon
 const icon = new L.Icon({
@@ -43,10 +46,21 @@ export default function HikeMap() {
     useState<Trip | null>(null)
 
   const [showRoutes, setShowRoutes] =
-    useState(true)
+  useState(true)
+
+const [showTopo, setShowTopo] =
+  useState(false)
 
 const [fullscreenImage, setFullscreenImage] =
     useState<string | null>(null) 
+
+const [elevationData, setElevationData] =
+  useState<
+    {
+      distance: number
+      elevation: number
+    }[]
+  >([])    
 
   return (
     <div
@@ -88,7 +102,7 @@ const [fullscreenImage, setFullscreenImage] =
               fontWeight: "bold"
             }}
           >
-            ← Back to map
+            ←  Close trail
           </button>
 
           <h2
@@ -116,6 +130,12 @@ const [fullscreenImage, setFullscreenImage] =
           <p>
             {selectedTrip.location}
           </p>
+
+          {elevationData.length > 0 && (
+  <ElevationChart
+    data={elevationData}
+  />
+)}
         </div>
       )}
 
@@ -171,6 +191,51 @@ const [fullscreenImage, setFullscreenImage] =
     Hiking Routes
   </span>
 </div>
+
+{/* Topographic toggle */}
+{selectedTrip && (
+  <div
+    onClick={() =>
+      setShowTopo(!showTopo)
+    }
+
+    style={{
+      position: "absolute",
+      top: 80,
+      left: 20,
+      zIndex: 1000,
+
+      background:
+        "rgba(255,255,255,0.95)",
+
+      padding: "12px 16px",
+
+      borderRadius: "14px",
+
+      boxShadow:
+        "0 4px 14px rgba(0,0,0,0.18)",
+
+      display: "flex",
+
+      alignItems: "center",
+
+      gap: "12px",
+
+      fontSize: "15px",
+
+      fontWeight: 600,
+
+      cursor: "pointer",
+
+      opacity: showTopo ? 1 : 0.5,
+
+      transition: "0.2s"
+    }}
+  >
+    🗺️ Toggle Topographic Map
+  </div>
+)}
+
 
 {/* Fullscreen image modal */}
 {fullscreenImage && (
@@ -231,17 +296,21 @@ const [fullscreenImage, setFullscreenImage] =
           attribution="&copy; OpenStreetMap contributors"
 
           url={
-            selectedTrip
-              ? "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
-              : "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          }
+  showTopo
+    ? "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
+    : "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+}
         />
 
         {/* Route layer */}
         {selectedTrip?.routeFile && (
           <RouteLayer
-            file={selectedTrip.routeFile}
-          />
+  file={selectedTrip.routeFile}
+
+  onElevationData={
+    setElevationData
+  }
+/>
         )}
 
 {/* Photo markers */}
@@ -291,34 +360,62 @@ const [fullscreenImage, setFullscreenImage] =
         {/* Trail markers */}
         {showRoutes &&
   trips.map((trip) => (
-          <Marker
-            key={trip.slug}
+<Marker
+  key={trip.slug}
 
-            position={[
-              trip.lat,
-              trip.lng
-            ]}
+  position={[
+    trip.lat,
+    trip.lng
+  ]}
 
-            icon={icon}
+  icon={icon}
 
-            eventHandlers={{
-              click: () => {
-                console.log(trip)
+  eventHandlers={{
+    click: () => {
+      setSelectedTrip(trip)
+    }
+  }}
+>
+<Tooltip
+  direction="top"
 
-                setSelectedTrip(trip)
-              }
-            }}
-          >
-            <Popup>
-              <div>
-                <h3>{trip.title}</h3>
+  offset={[0, -28]}
 
-                <p>
-                  {trip.description}
-                </p>
-              </div>
-            </Popup>
-          </Marker>
+  opacity={1}
+
+  sticky={false}
+
+  permanent={false}
+
+  className="custom-tooltip"
+>
+  <div>
+    <div
+      style={{
+        fontWeight: 700,
+
+        fontSize: "18px",
+
+        marginBottom: "10px",
+
+        color: "#111"
+      }}
+    >
+      {trip.title}
+    </div>
+
+    <div
+      style={{
+        fontSize: "14px",
+
+        color: "#555"
+      }}
+    >
+      {trip.description}
+    </div>
+  </div>
+</Tooltip>
+</Marker>
         ))}
       </MapContainer>
     </div>

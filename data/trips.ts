@@ -46,6 +46,7 @@ export const trips: Trip[] = [
     distance: "22.0 mi",
 
     elevation: "3,955 ft gain",
+    
 
     photos: [
   {

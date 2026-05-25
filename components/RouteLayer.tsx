@@ -6,65 +6,138 @@ import { useMap } from "react-leaflet"
 
 import L from "leaflet"
 
+import "leaflet-ant-path"
+
 import { gpx } from "@tmcw/togeojson"
 
 import { DOMParser } from "xmldom"
 
 interface Props {
   file: string
+
+  onElevationData?: (
+    data: {
+      distance: number
+      elevation: number
+    }[]
+  ) => void
 }
 
 export default function RouteLayer({
-  file
+  file,
+  onElevationData
 }: Props) {
   const map = useMap()
 
   useEffect(() => {
-    let routeLayer: L.GeoJSON | null = null
+    let routeLayer: any = null
 
     async function loadRoute() {
-      console.log("Loading route:", file)
+      const response =
+        await fetch(file)
 
-      const response = await fetch(file)
+      const text =
+        await response.text()
 
-      console.log("Fetch status:", response.status)
-
-      const text = await response.text()
-
-      console.log("GPX text loaded")
-
-      const xml = new DOMParser().parseFromString(
-        text,
-        "text/xml"
-      )
-
-      console.log("XML parsed")
+      const xml =
+        new DOMParser().parseFromString(
+          text,
+          "text/xml"
+        )
 
       const geojson = gpx(xml)
 
-      console.log("GeoJSON:", geojson)
+      const feature =
+        geojson.features.find(
+          (f: any) =>
+            f.geometry.type ===
+            "LineString"
+        )
 
-      routeLayer = L.geoJSON(geojson, {
-        filter: (feature) => {
-          return (
-            feature.geometry.type ===
-              "LineString" ||
+      if (!feature) return
 
-            feature.geometry.type ===
-              "MultiLineString"
-          )
-        },
+      const coords =
+        feature.geometry.coordinates
 
-        style: {
-          color: "#ff5533",
-          weight: 6,
-          opacity: 0.85
+      const latlngs = coords.map(
+        (coord: number[]) => [
+          coord[1],
+          coord[0]
+        ]
+      )
+
+      // Elevation profile
+      let cumulativeDistance = 0
+
+      const elevationData =
+        coords.map(
+          (
+            coord: number[],
+            index: number
+          ) => {
+            if (index > 0) {
+              const prev =
+                coords[index - 1]
+
+              const dx =
+                coord[0] - prev[0]
+
+              const dy =
+                coord[1] - prev[1]
+
+              cumulativeDistance +=
+                Math.sqrt(
+                  dx * dx + dy * dy
+                ) * 69
+            }
+
+            return {
+              distance:
+                Number(
+                  cumulativeDistance.toFixed(
+                    1
+                  )
+                ),
+
+              elevation:
+                coord[2] || 0
+            }
+          }
+        )
+
+      onElevationData?.(
+        elevationData
+      )
+
+      routeLayer = (L as any).polyline.antPath(
+        latlngs,
+        {
+          delay: 8000,
+
+          dashArray: [10, 20],
+
+          weight: 7,
+
+          color: "#bde0fe",
+
+          pulseColor: "#3a86ff",
+
+          paused: false,
+
+          reverse: false,
+
+          hardwareAccelerated: true
         }
-      }).addTo(map)
+      )
 
-      console.log("Route layer added")
+      routeLayer.addTo(map)
 
-      map.fitBounds(routeLayer.getBounds())
+      map.flyToBounds(
+        routeLayer.getBounds(),
+        {
+          duration: 2
+        }
+      )
     }
 
     loadRoute()
@@ -74,7 +147,7 @@ export default function RouteLayer({
         map.removeLayer(routeLayer)
       }
     }
-  }, [file, map])
+  }, [file, map, onElevationData])
 
   return null
 }

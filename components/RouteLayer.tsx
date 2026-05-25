@@ -122,7 +122,7 @@ const latlngs: L.LatLngTuple[] =
         reverse?: boolean
         hardwareAccelerated?: boolean
       }
-    ) => L.Layer
+    ) => L.Polyline
   }
 ).antPath(
         latlngs,

@@ -59,12 +59,13 @@ if (!feature) return
 const coords =
   feature.geometry.coordinates
 
-      const latlngs = coords.map(
-        (coord: number[]) => [
-          coord[1],
-          coord[0]
-        ]
-      )
+const latlngs: L.LatLngTuple[] =
+  coords.map(
+    (coord: number[]) => [
+      coord[1],
+      coord[0]
+    ] as L.LatLngTuple
+  )
 
       // Elevation profile
       let cumulativeDistance = 0

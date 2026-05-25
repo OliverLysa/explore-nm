@@ -109,9 +109,21 @@ export default function RouteLayer({
         elevationData
       )
 
-      routeLayer = (L.polyline as typeof L.polyline & {
-  antPath: Function
-}).antPath(
+      routeLayer = (
+  L.polyline as typeof L.polyline & {
+    antPath: (
+      latlngs: L.LatLngExpression[],
+      options?: L.PolylineOptions & {
+        delay?: number
+        dashArray?: number[]
+        pulseColor?: string
+        paused?: boolean
+        reverse?: boolean
+        hardwareAccelerated?: boolean
+      }
+    ) => L.Layer
+  }
+).antPath(
         latlngs,
         {
           delay: 8000,

@@ -30,7 +30,7 @@ export default function RouteLayer({
   const map = useMap()
 
   useEffect(() => {
-    let routeLayer: any = null
+    let routeLayer: L.Layer | null = null
 
     async function loadRoute() {
       const response =
@@ -49,7 +49,7 @@ export default function RouteLayer({
 
       const feature =
         geojson.features.find(
-          (f: any) =>
+         (f: GeoJSON.Feature) =>
             f.geometry.type ===
             "LineString"
         )
@@ -109,7 +109,9 @@ export default function RouteLayer({
         elevationData
       )
 
-      routeLayer = (L as any).polyline.antPath(
+      routeLayer = (L.polyline as typeof L.polyline & {
+  antPath: Function
+}).antPath(
         latlngs,
         {
           delay: 8000,

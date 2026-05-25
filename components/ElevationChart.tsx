@@ -31,14 +31,16 @@ export default function ElevationChart({
       >
         <AreaChart data={data}>
           <Tooltip
-  formatter={(value: number) => [
-    `${Math.round(value)} m`,
-    "Elevation"
-  ]}
 
-  labelFormatter={(label) =>
-    `${label.toFixed(1)} mi`
-  }
+formatter={(value) => [
+  `${Math.round(Number(value))} m`,
+  "Elevation"
+]}
+
+labelFormatter={(label) =>
+  `${Number(label).toFixed(1)} mi`
+}
+
 />
 
           <Area

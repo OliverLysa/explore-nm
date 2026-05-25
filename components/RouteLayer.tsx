@@ -47,17 +47,17 @@ export default function RouteLayer({
 
       const geojson = gpx(xml)
 
-      const feature =
-        geojson.features.find(
-         (f: GeoJSON.Feature) =>
-            f.geometry.type ===
-            "LineString"
-        )
+      const feature = geojson.features.find(
+  (
+    f: GeoJSON.Feature
+  ): f is GeoJSON.Feature<GeoJSON.LineString> =>
+    f.geometry.type === "LineString"
+)
 
-      if (!feature) return
+if (!feature) return
 
-      const coords =
-        feature.geometry.coordinates
+const coords =
+  feature.geometry.coordinates
 
       const latlngs = coords.map(
         (coord: number[]) => [

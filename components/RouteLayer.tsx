@@ -30,7 +30,7 @@ export default function RouteLayer({
   const map = useMap()
 
   useEffect(() => {
-    let routeLayer: L.Layer | null = null
+    let routeLayer: L.Polyline | null = null
 
     async function loadRoute() {
       const response =

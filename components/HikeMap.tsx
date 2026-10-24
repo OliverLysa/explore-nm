@@ -4,7 +4,6 @@ import { useState } from "react"
 
 import {
 MapContainer,
-TileLayer,
 Marker,
 Popup,
 Tooltip
@@ -13,12 +12,15 @@ Tooltip
 import "leaflet/dist/leaflet.css"
 
 import RouteLayer from "./RouteLayer"
+import MaptoolkitBasemap from "./MaptoolkitBasemap"
 
 import L from "leaflet"
 
 import { trips, Trip } from "../data/trips"
 
 import ElevationChart from "./ElevationChart"
+
+import LandManagementLayer from "./LandManagementLayer";
 
 // Marker icon
 const icon = new L.Icon({
@@ -48,8 +50,6 @@ export default function HikeMap() {
   const [showRoutes, setShowRoutes] =
   useState(true)
 
-const [showTopo, setShowTopo] =
-  useState(false)
 
 const [fullscreenImage, setFullscreenImage] =
     useState<string | null>(null) 
@@ -192,50 +192,6 @@ const [elevationData, setElevationData] =
   </span>
 </div>
 
-{/* Topographic toggle */}
-{selectedTrip && (
-  <div
-    onClick={() =>
-      setShowTopo(!showTopo)
-    }
-
-    style={{
-      position: "absolute",
-      top: 80,
-      left: 20,
-      zIndex: 1000,
-
-      background:
-        "rgba(255,255,255,0.95)",
-
-      padding: "12px 16px",
-
-      borderRadius: "14px",
-
-      boxShadow:
-        "0 4px 14px rgba(0,0,0,0.18)",
-
-      display: "flex",
-
-      alignItems: "center",
-
-      gap: "12px",
-
-      fontSize: "15px",
-
-      fontWeight: 600,
-
-      cursor: "pointer",
-
-      opacity: showTopo ? 1 : 0.5,
-
-      transition: "0.2s"
-    }}
-  >
-    🗺️ Toggle Topographic Map
-  </div>
-)}
-
 
 {/* Fullscreen image modal */}
 {fullscreenImage && (
@@ -291,16 +247,11 @@ const [elevationData, setElevationData] =
           width: "100%"
         }}
       >
-        {/* Dynamic basemap */}
-        <TileLayer
-          attribution="&copy; OpenStreetMap contributors"
+        {/* Basemap */}
+        <MaptoolkitBasemap showTopo={true} />
 
-          url={
-  showTopo
-    ? "https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png"
-    : "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-}
-        />
+        {/* Public land management overlay */}
+        <LandManagementLayer />
 
         {/* Route layer */}
         {selectedTrip?.routeFile && (

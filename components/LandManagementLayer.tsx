@@ -16,6 +16,7 @@ const agencyColors: Record<string, string> = {
   FWS: "#80BBD1",  // Fish and Wildlife Service
   USBR: "#78A9D6", // Bureau of Reclamation
   USACE: "#70C9D0", // Army Corps of Engineers
+  DOD: "#8C6D4F", // Department of Defense
   SLB: "#C6A0C8",  // State trust land
   SDOL: "#C6A0C8",
   SDNR: "#C6A0C8",
@@ -92,6 +93,7 @@ export default function LandManagementLayer() {
           ["FWS", "Fish and Wildlife Service"],
           ["USBR", "Bureau of Reclamation"],
           ["USACE", "Army Corps of Engineers"],
+          ["DOD", "Department of Defense"],
           ["SLB", "State Land"],
         ] as [string, string][]
       ).map(([agency, label]) => (

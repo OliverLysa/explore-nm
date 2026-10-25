@@ -6,8 +6,6 @@ import { useMap } from "react-leaflet"
 
 import L from "leaflet"
 
-import "leaflet-ant-path"
-
 import { gpx } from "@tmcw/togeojson"
 
 import { DOMParser } from "xmldom"
@@ -30,7 +28,7 @@ export default function RouteLayer({
   const map = useMap()
 
   useEffect(() => {
-    let routeLayer: L.Polyline | null = null
+let routeLayer: L.FeatureGroup | null = null
 
     async function loadRoute() {
       const response =
@@ -110,58 +108,46 @@ const latlngs: L.LatLngTuple[] =
         elevationData
       )
 
-      routeLayer = (
-  L.polyline as typeof L.polyline & {
-    antPath: (
-      latlngs: L.LatLngExpression[],
-      options?: L.PolylineOptions & {
-        delay?: number
-        dashArray?: number[]
-        pulseColor?: string
-        paused?: boolean
-        reverse?: boolean
-        hardwareAccelerated?: boolean
-      }
-    ) => L.Polyline
+      // Wider cream casing for contrast
+const routeOutline = L.polyline(latlngs, {
+  color: "#FFFDF7",
+  weight: 11,
+  opacity: 1,
+  lineCap: "round",
+  lineJoin: "round"
+})
+
+// Bolder, darker hiking trail
+const routeLine = L.polyline(latlngs, {
+  color: "#A94325",
+  weight: 6,
+  opacity: 1,
+  lineCap: "round",
+  lineJoin: "round"
+})
+
+routeLayer = L.featureGroup([
+  routeOutline,
+  routeLine
+]).addTo(map)
+
+map.flyToBounds(
+  routeLayer.getBounds(),
+  {
+    duration: 1.2,
+    padding: [50, 50],
+    maxZoom: 14
   }
-).antPath(
-        latlngs,
-        {
-          delay: 8000,
-
-          dashArray: [10, 20],
-
-          weight: 7,
-
-          color: "#bde0fe",
-
-          pulseColor: "#3a86ff",
-
-          paused: false,
-
-          reverse: false,
-
-          hardwareAccelerated: true
-        }
-      )
-
-      routeLayer.addTo(map)
-
-      map.flyToBounds(
-        routeLayer.getBounds(),
-        {
-          duration: 2
-        }
-      )
+)
     }
 
     loadRoute()
 
     return () => {
-      if (routeLayer) {
-        map.removeLayer(routeLayer)
-      }
-    }
+  if (routeLayer && map.hasLayer(routeLayer)) {
+    map.removeLayer(routeLayer)
+  }
+}
   }, [file, map, onElevationData])
 
   return null

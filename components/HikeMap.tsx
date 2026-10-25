@@ -22,15 +22,68 @@ import ElevationChart from "./ElevationChart"
 
 import LandManagementLayer from "./LandManagementLayer";
 
-// Marker icon
-const icon = new L.Icon({
-  iconUrl: "/icons/hiking-marker.svg",
+// Hiking trail marker
+const icon = L.divIcon({
+  className: "hiking-marker",
+  html: `
+    <div class="hiking-marker__badge">
+      <svg viewBox="0 0 32 32" aria-hidden="true">
+        <circle cx="18" cy="4.5" r="2.8" fill="white"/>
 
-  iconSize: [36, 36],
+        <!-- Backpack -->
+        <rect x="11.5" y="9" width="5" height="8" rx="2" fill="white"/>
 
-  iconAnchor: [18, 36],
+        <!-- Body -->
+        <path
+          d="M17 9 L15 17"
+          stroke="white"
+          stroke-width="3"
+          stroke-linecap="round"
+        />
 
-  popupAnchor: [0, -36]
+        <!-- Front arm -->
+        <path
+          d="M16 11 L21 14 L23 11"
+          stroke="white"
+          stroke-width="2.4"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+
+        <!-- Rear arm -->
+        <path
+          d="M14 12 L10 17"
+          stroke="white"
+          stroke-width="2.4"
+          fill="none"
+          stroke-linecap="round"
+        />
+
+        <!-- Legs -->
+        <path
+          d="M15 17 L13 22 L10 28 M15 17 L18 22 L20 28"
+          stroke="white"
+          stroke-width="2.8"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        />
+
+        <!-- Straight trekking poles -->
+        <path
+          d="M9 16 L5 29 M24 12 L24 29"
+          stroke="white"
+          stroke-width="1.8"
+          fill="none"
+          stroke-linecap="round"
+        />
+      </svg>
+    </div>
+  `,
+  iconSize: [38, 38],
+  iconAnchor: [19, 19],
+  popupAnchor: [0, -19]
 })
 
 const photoIcon = new L.Icon({
@@ -141,55 +194,50 @@ const [elevationData, setElevationData] =
 
 {/* Legend */}
 <div
-  onClick={() =>
-    setShowRoutes(!showRoutes)
-  }
-
+  onClick={() => setShowRoutes(!showRoutes)}
   style={{
     position: "absolute",
     top: 20,
     right: 20,
     zIndex: 1000,
-
     background: "rgba(255,255,255,0.95)",
-
     padding: "12px 16px",
-
     borderRadius: "14px",
-
-    boxShadow:
-      "0 4px 14px rgba(0,0,0,0.18)",
-
+    boxShadow: "0 4px 14px rgba(0,0,0,0.18)",
     display: "flex",
-
     alignItems: "center",
-
     gap: "12px",
-
     fontSize: "15px",
-
     fontWeight: 600,
-
     cursor: "pointer",
-
     opacity: showRoutes ? 1 : 0.5,
-
     transition: "0.2s"
   }}
 >
-  <img
-    src="/icons/hiking-marker.svg"
-    alt="Hiking route"
-
+  <div
+    className="hiking-marker__badge"
     style={{
-      width: "24px",
-      height: "24px"
+      width: "28px",
+      height: "28px",
+      flexShrink: 0
     }}
-  />
+  >
+    <svg
+      viewBox="0 0 32 32"
+      aria-hidden="true"
+      style={{ width: "21px", height: "21px" }}
+    >
+      <circle cx="18" cy="4.5" r="2.8" fill="white" />
+      <rect x="11.5" y="9" width="5" height="8" rx="2" fill="white" />
+      <path d="M17 9 L15 17" stroke="white" strokeWidth="3" strokeLinecap="round" />
+      <path d="M16 11 L21 14 L23 11" stroke="white" strokeWidth="2.4" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M14 12 L10 17" stroke="white" strokeWidth="2.4" fill="none" strokeLinecap="round" />
+      <path d="M15 17 L13 22 L10 28 M15 17 L18 22 L20 28" stroke="white" strokeWidth="2.8" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+      <path d="M9 16 L5 29 M24 12 L24 29" stroke="white" strokeWidth="1.8" fill="none" strokeLinecap="round" />
+    </svg>
+  </div>
 
-  <span>
-    Hiking Routes
-  </span>
+  <span>Hiking Routes</span>
 </div>
 
 
@@ -329,40 +377,48 @@ const [elevationData, setElevationData] =
 >
 <Tooltip
   direction="top"
-
   offset={[0, -28]}
-
   opacity={1}
-
   sticky={false}
-
   permanent={false}
-
   className="custom-tooltip"
 >
-  <div>
-    <div
-      style={{
-        fontWeight: 700,
+  <div className="trail-card">
+    <div className="trail-card__header">
+      <div className="trail-card__icon">
+        <svg
+          viewBox="0 0 32 32"
+          aria-hidden="true"
+        >
+          <circle cx="18" cy="4.5" r="2.8" fill="#FFF8E9" />
+          <rect x="11.5" y="9" width="5" height="8" rx="2" fill="#FFF8E9" />
+          <path d="M17 9 L15 17" stroke="#FFF8E9" strokeWidth="3" strokeLinecap="round" />
+          <path d="M16 11 L21 14 L23 11" stroke="#FFF8E9" strokeWidth="2.4" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          <path d="M14 12 L10 17" stroke="#FFF8E9" strokeWidth="2.4" fill="none" strokeLinecap="round" />
+          <path d="M15 17 L13 22 L10 28 M15 17 L18 22 L20 28" stroke="#FFF8E9" strokeWidth="2.8" fill="none" strokeLinecap="round" strokeLinejoin="round" />
+          <path d="M9 16 L5 29 M24 12 L24 29" stroke="#FFF8E9" strokeWidth="1.8" fill="none" strokeLinecap="round" />
+        </svg>
+      </div>
 
-        fontSize: "18px",
+      <div className="trail-card__heading">
+        <div className="trail-card__eyebrow">
+          WILDERNESS TRAIL
+        </div>
 
-        marginBottom: "10px",
-
-        color: "#111"
-      }}
-    >
-      {trip.title}
+        <div className="trail-card__title">
+          {trip.title}
+        </div>
+      </div>
     </div>
 
-    <div
-      style={{
-        fontSize: "14px",
+    <div className="trail-card__divider" />
 
-        color: "#555"
-      }}
-    >
+    <div className="trail-card__description">
       {trip.description}
+    </div>
+
+    <div className="trail-card__footer">
+      EXPLORE NEW MEXICO
     </div>
   </div>
 </Tooltip>

@@ -1,0 +1,7614 @@
+[
+  {
+    "id": "33.305153,-107.850029",
+    "lat": 33.305153,
+    "lng": -107.850029,
+    "locations": [
+      "at Turkey Run Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Diamond Creek Trail #40",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "18.3 miles (one way), northwestern Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Caledonia Trail #42",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "3 miles (one way), near the north end of the Aldo Leopold Wilderness Area. Portion outside wilderness open to bicycles.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.290520,-108.062866",
+    "lat": 33.29052,
+    "lng": -108.062866,
+    "locations": [
+      "at Diamond Creek Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Diamond Creek Trail #40",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "18.3 miles (one way), northwestern Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Spring Mountain Trail #67",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "14.1 miles (one way), northern Aldo Leopold Wilderness between Continental Divide and Diamond Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.264464,-107.827694",
+    "lat": 33.26446389,
+    "lng": -107.82769444,
+    "locations": [
+      "at the Continental Divide"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Fisherman Canyon Trail #48",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), near the north end of the Aldo Leopold Wilderness Area.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.387737,-108.315392",
+    "lat": 33.387737,
+    "lng": -108.315392,
+    "locations": [
+      "at Meadow Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Meadow Trail #53",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "7.6 miles (one way), northern Gila Wilderness west of Indian Creek Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Homestead Trail #101",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6 miles (one way), northern Gila Wilderness between Indian Creek Canyon and Middle Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.572253,-107.732772",
+    "lat": 33.57225278,
+    "lng": -107.73277222,
+    "locations": [
+      "at north end of Forest Road 913"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Duck Canyon Trail #60",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "4.4 miles (one way), eastern edge of Gila National Forest.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.444332,-107.876770",
+    "lat": 33.444332,
+    "lng": -107.87677,
+    "locations": [
+      "at Continental Divide #74 Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "Traverses 248 miles of Gila National Forest; in this district follows the Continental Divide through the north end of Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.359745,-107.836601",
+    "lat": 33.359745,
+    "lng": -107.836601,
+    "locations": [
+      "at Lookout Mountain CDNST Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "Traverses 248 miles of Gila National Forest; in this district follows the Continental Divide through the north end of Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.335293,-107.831520",
+    "lat": 33.335293,
+    "lng": -107.83152,
+    "locations": [
+      "at Caledonia CDNST Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "Traverses 248 miles of Gila National Forest; in this district follows the Continental Divide through the north end of Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.030224,-107.852325",
+    "lat": 33.030224,
+    "lng": -107.852325,
+    "locations": [
+      "at McKnight Trailhead"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Black Range Crest Trail #79",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "27.7 miles north from Emory Pass to Reeds Peak; 8.3 miles south from Emory Pass to Donahue Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.004425,-107.856216",
+    "lat": 33.004425,
+    "lng": -107.856216,
+    "locations": [
+      "at Board Gate Saddle Trailhead"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Black Range Crest Trail #79",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "27.7 miles north from Emory Pass to Reeds Peak; 8.3 miles south from Emory Pass to Donahue Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.910049,-107.766441",
+    "lat": 32.910049,
+    "lng": -107.766441,
+    "locations": [
+      "at Emory Pass Trailhead",
+      "at Emory Pass"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Black Range Crest Trail #79",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "27.7 miles north from Emory Pass to Reeds Peak; 8.3 miles south from Emory Pass to Donahue Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Scenic Trail #796",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "4.3 miles (one way), near Kingston.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.247747,-107.710664",
+    "lat": 33.24774722,
+    "lng": -107.71066389,
+    "locations": [
+      "at Forest Road 157"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "North Palomas Creek Trail #105",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "4 miles (one way), within Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Dines Trail #112",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "4.8 miles (one way), west of Hermosa Road, leads to Aldo Leopold Wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.203087,-107.749588",
+    "lat": 33.203087,
+    "lng": -107.749588,
+    "locations": [
+      "at Circle Seven Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Circle Seven Trail #106",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "6.8 miles (one way), within Aldo Leopold Wilderness; first 2.2 miles outside wilderness open to bicycles.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      },
+      {
+        "name": "Hermosa Trail #307",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "11.5 miles (one way), mostly east of Aldo Leopold Wilderness; southern end crosses wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.161377,-107.739174",
+    "lat": 33.161377,
+    "lng": -107.739174,
+    "locations": [
+      "at Lake Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Rattlesnake Trail #107",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "6.8 miles (one way), within Aldo Leopold Wilderness; portion outside wilderness open to bicycles.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      },
+      {
+        "name": "Lake Trail #110",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "12.3 miles (one way), within Aldo Leopold Wilderness; first 2.4 miles outside wilderness open to bicycles.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      },
+      {
+        "name": "Hermosa Trail #307",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "11.5 miles (one way), mostly east of Aldo Leopold Wilderness; southern end crosses wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.140808,-107.767444",
+    "lat": 33.14080833,
+    "lng": -107.76744444,
+    "locations": [
+      "at Lake Trail #110"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Spud Patch Trail #111",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "5.9 miles (one way), within Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.245772,-107.725808",
+    "lat": 33.24577222,
+    "lng": -107.72580833,
+    "locations": [
+      "at Dines Trail #112"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Moccasin John Trail #112A",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "0.9 miles (one way), west of Hermosa Trail #307; open to bicycles.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.959528,-107.807900",
+    "lat": 32.95952778,
+    "lng": -107.8079,
+    "locations": [
+      "at Black Range Crest Trail #129"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Holden Prong Trail #114",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "11.2 miles (one way), within Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Sid's Prong Trail #121",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "6.5 miles (one way), within Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.112411,-107.729486",
+    "lat": 33.11241111,
+    "lng": -107.72948611,
+    "locations": [
+      "at Hermosa Trail #307"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "North Seco Trail #123",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "1.25 miles (one way), west of Hermosa Trail #307, leads to Aldo Leopold Wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.920104,-107.764290",
+    "lat": 32.920104,
+    "lng": -107.76429,
+    "locations": [
+      "at Ladrone Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Ladrone Gulch Trail #127",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "2.8 miles (one way), in and out of Aldo Leopold Wilderness from Kingston area.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.908348,-107.817093",
+    "lat": 32.908348,
+    "lng": -107.817093,
+    "locations": [
+      "at Railroad Canyon Campground"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "East Railroad Trail #130",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "3.1 miles (one way), off NM Highway 152 west of Emory Pass.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Viewing Scenery"
+        ]
+      },
+      {
+        "name": "Railroad Canyon Trail #128",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3 miles (one way), north of NM Highway 152 and south of Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Plants",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Gallinas Canyon Trail #129",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "4.9 miles (one way), north of NM Highway 152 and south of Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Plants",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.972080,-107.713300",
+    "lat": 32.97208,
+    "lng": -107.7133,
+    "locations": [
+      "at Coffee Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Coffee Trail #133",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "1.8 miles (one way), north of Kingston.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.948961,-107.787272",
+    "lat": 32.94896111,
+    "lng": -107.78727222,
+    "locations": [
+      "at western terminus"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Hillsboro Bypass Trail #412",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "1.5 miles (one way), near Hillsboro Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.422535,-108.197716",
+    "lat": 33.422535,
+    "lng": -108.197716,
+    "locations": [
+      "at Wolf Hollow Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Wolf Hollow Trail #773",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "4.6 miles (one way), north of Gila Wilderness, leading to wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.915106,-107.713128",
+    "lat": 32.91510556,
+    "lng": -107.71312778,
+    "locations": [
+      "at Iron Street"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Iron Trail #793",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "1.2 miles (one way), near Kingston; open to bicycles.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.911125,-107.708444",
+    "lat": 32.911125,
+    "lng": -107.70844444,
+    "locations": [
+      "at NM Highway 152 south of Kingston"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Scenic Trail #796",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "4.3 miles (one way), near Kingston.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.403950,-108.275464",
+    "lat": 33.40395,
+    "lng": -108.27546389,
+    "locations": [
+      "at end of Forest Road 142C"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Christie Trail #806",
+        "district": "Black Range Ranger District",
+        "status": "Open",
+        "description": "1.6 miles (one way), north of Gila Wilderness, ending 0.1 mile inside wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.670311,-109.007820",
+    "lat": 33.670311,
+    "lng": -109.00782,
+    "locations": [
+      "at Flying T Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Flying T Spring #21",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "7.6 miles (one way), east of Frisco Divide Road into upper Saliz Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.611111,-108.938889",
+    "lat": 33.611111,
+    "lng": -108.938889,
+    "locations": [
+      "at Forest Road 33 Leggett Loop"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Saliz Trail #22",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.5 miles (one way), off Pueblo Park Road in Blue Range Wilderness.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.606143,-109.049168",
+    "lat": 33.60614294,
+    "lng": -109.0491679,
+    "locations": [
+      "at Bonanza Bill Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Bonanza Bill Trail #23",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "12 miles (one way), mostly in Blue Range Primitive Area, Arizona, crossing into Blue Range Wilderness, New Mexico.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Tige Rim Trail #90",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "5.5 miles (one way), within Blue Range Wilderness.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.640221,-109.018143",
+    "lat": 33.640221,
+    "lng": -109.018143,
+    "locations": [
+      "at Hinkle Park Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Camp Canyon Trail #36",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "5 miles (one way), north of Pueblo Park.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.376019,-108.843506",
+    "lat": 33.37601852,
+    "lng": -108.84350586,
+    "locations": [
+      "at Gold Dust Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Gold Dust Trail #41",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.5 miles (one way), off Bursum Road at Whitewater Mesa.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.372990,-108.842064",
+    "lat": 33.37298965,
+    "lng": -108.8420639,
+    "locations": [
+      "at Catwalk Recreation Area"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Gold Dust Trail #41",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.5 miles (one way), off Bursum Road at Whitewater Mesa.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.590435,-108.960945",
+    "lat": 33.590435,
+    "lng": -108.960945,
+    "locations": [
+      "at WS Mountain Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "WS Mountain Trail #43",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "8.9 miles (one way), at Pueblo Park Campground, enters Blue Range Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Dispersed Camping",
+          "Rockhounding",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.625225,-108.928307",
+    "lat": 33.62522507,
+    "lng": -108.9283066,
+    "locations": [
+      "at Cottonwood Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Cottonwood Trail #44",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "3 miles (one way), off Pueblo Park Road.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.130543,-108.608635",
+    "lat": 33.130543,
+    "lng": -108.608635,
+    "locations": [
+      "at 74 Mountain Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Mogollon Trail #153",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "7.1 miles (one way), western Gila Wilderness between 74 Mountain and Horse Springs.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.380478,-108.767342",
+    "lat": 33.380478,
+    "lng": -108.767342,
+    "locations": [
+      "at Deloche Trailhead"
+    ],
+    "activities": [
+      "Fishing",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Deloche Trail #179",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "7.8 miles (one way), within Gila Wilderness; not recommended for traversing due to major flood washouts, loose soil and rocks.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "River and Stream Fishing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.223831,-108.737556",
+    "lat": 33.223831,
+    "lng": -108.737556,
+    "locations": [
+      "at Little Dry Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Little Dry Trail #180",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "10.3 miles (one way), Little Dry Creek east of US Highway 180; 2 miles to wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.253700,-108.801186",
+    "lat": 33.2537,
+    "lng": -108.801186,
+    "locations": [
+      "at Sheridan Corral Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Holt-Apache Trail #181",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "16.7 miles (one way), along Sheridan Ridge; enters Gila Wilderness after 0.5 mile.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.372749,-108.685730",
+    "lat": 33.372749,
+    "lng": -108.68573,
+    "locations": [
+      "at Crest Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Crest Trail #182",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "11.8 miles (one way), western Gila Wilderness along high crest of Mogollon Mountains.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.185480,-108.676600",
+    "lat": 33.18548,
+    "lng": -108.6766,
+    "locations": [
+      "at Rain Creek Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Rain Creek Trail #189",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "8.75 miles (one way), near Sacaton Airstrip, enters western Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.404506,-108.726503",
+    "lat": 33.40450556,
+    "lng": -108.72650278,
+    "locations": [
+      "at Mineral Creek Trail #201"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Bearwallow Creek Trail #190",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "4.9 miles (one way), upper Mineral Creek and Bearwallow Creek drainages north of Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.415086,-108.779922",
+    "lat": 33.4150856,
+    "lng": -108.77992222,
+    "locations": [
+      "at Mineral Creek Trail #201"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Red Canyon Trail #198",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.8 miles (one way), Red Canyon and Mineral Creek drainages to Claremont Road.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.418583,-108.829781",
+    "lat": 33.418583,
+    "lng": -108.829781,
+    "locations": [
+      "at Mineral Creek Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Mineral Creek Trail #201",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "14 miles (one way), Mineral Creek Canyon east of Alma.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Dispersed Camping",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.399605,-108.638832",
+    "lat": 33.399605,
+    "lng": -108.638832,
+    "locations": [
+      "at North Fork Mineral Creek Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Mineral Creek Trail #201",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "14 miles (one way), Mineral Creek Canyon east of Alma.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Dispersed Camping",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.373165,-108.686241",
+    "lat": 33.373165,
+    "lng": -108.686241,
+    "locations": [
+      "at Whitetail Canyon Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Whitetail Canyon Trail #202",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.3 miles (one way), Whitetail Canyon north of Bursum Road.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Dispersed Camping",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.369164,-108.723480",
+    "lat": 33.369164,
+    "lng": -108.72348,
+    "locations": [
+      "at Redstone Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Redstone Trail #206",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "7.7 miles (one way), Redstone Park Canyon south of Bursum Road, enters Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Horse Riding",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.372555,-108.841735",
+    "lat": 33.372555,
+    "lng": -108.841735,
+    "locations": [
+      "at Catwalk Trailhead",
+      "at Whitewater Trail #207.1"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Catwalk National Recreation #207 Trail",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "0.75 miles (one way), 5 miles east of Glenwood; day use only.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      },
+      {
+        "name": "Whitewater Trail #207.1",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "16.8 miles (one way), within northwestern Gila Wilderness",
+        "uses": []
+      },
+      {
+        "name": "South Fork Whitewater Trail #212",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "7 miles (one way), within northwestern Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.328372,-108.768186",
+    "lat": 33.32837222,
+    "lng": -108.76818611,
+    "locations": [
+      "at South Whitewater Trail #212"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "East Fork Whitewater Trail #213",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "3 miles (one way), within northwestern Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.317467,-108.856232",
+    "lat": 33.317467,
+    "lng": -108.856232,
+    "locations": [
+      "at South Fork Whitewater Trail #212"
+    ],
+    "activities": [],
+    "trails": [
+      {
+        "name": "Little Whitewater Trail #214",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "7.75 miles (one way), east of Glenwood, enters Gila Wilderness",
+        "uses": []
+      }
+    ]
+  },
+  {
+    "id": "33.207400,-108.629069",
+    "lat": 33.2074,
+    "lng": -108.62906944,
+    "locations": [
+      "at Rain Creek Trail #189"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "West Fork Mogollon Trail #224",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2 miles (one way), within southwestern Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.267067,-108.779597",
+    "lat": 33.26706667,
+    "lng": -108.77959722,
+    "locations": [
+      "at Holt-Apache Trail #181"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Johnsons Cabin Trail #225",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "3.2 miles (one way), within southwestern Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.228378,-108.867165",
+    "lat": 33.228378,
+    "lng": -108.867165,
+    "locations": [
+      "at San Francisco Hot Springs Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "San Francisco Hot Springs Trail #250",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.25 miles (one way), west of US Highway 180 south of Glenwood.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.520833,-108.943328",
+    "lat": 33.520833,
+    "lng": -108.943328,
+    "locations": [
+      "at Forest Road 4041G"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Kelly Camp Trail #431",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "4.3 miles (one way), west of US Highway 180 in Blue Range Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.473158,-108.766036",
+    "lat": 33.47315833,
+    "lng": -108.76603611,
+    "locations": [
+      "at Trail 949"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Long Canyon Trail #501",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "0.6 miles (one way), Lost Lake Mountain west of Deep Creek Divide.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.699932,-108.968979",
+    "lat": 33.699932,
+    "lng": -108.968979,
+    "locations": [
+      "at Aspen Mountain Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Aspen Mountain #506",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "3.9 miles (one way), off Frisco Divide Road.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.595699,-108.962814",
+    "lat": 33.595699,
+    "lng": -108.962814,
+    "locations": [
+      "at Pueblo Park Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Dangerous Park Trail #515",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "6.5 miles (one way), Dangerous Park north of Pueblo Park Campground.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.272186,-108.975028",
+    "lat": 33.27218611,
+    "lng": -108.97502778,
+    "locations": [
+      "at Forest Road 398"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Goat Corral Trail #777",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "4.9 miles (one way), Goat Basin Canyon north of Frisco Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.380112,-108.635521",
+    "lat": 33.380112,
+    "lng": -108.635521,
+    "locations": [
+      "at South Fork Mineral Creek Trailhead"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "South Fork Mineral Creek Trail #798",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.4 miles (one way), upper Mineral Creek Canyon north of Bursum Road.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.390842,-108.779785",
+    "lat": 33.39084244,
+    "lng": -108.7797852,
+    "locations": [
+      "at Log Canyon Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Log Canyon Trail #808",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.1 miles (one way), Log Canyon north of Bursum Road to Mineral Creek.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.370945,-108.807381",
+    "lat": 33.37094498,
+    "lng": -108.8073807,
+    "locations": [
+      "at Powerhouse Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Powerhouse Trail #810",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.87 miles (one way), north of Bursum Road, dropping into Whitewater Creek.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.952878,-108.945383",
+    "lat": 32.95287778,
+    "lng": -108.94538333,
+    "locations": [
+      "at Forest Road 4081U"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #940",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "6.7 miles (one way), east of Brushy Mountain (Radar Brushy).",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #941",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.75 miles (one way), northeast of Brushy Mountain.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #942",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "0.6 miles (one way), southeast of Brushy Mountain.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #943",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.6 miles (one way), south of Brushy Mountain.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.185478,-108.676643",
+    "lat": 33.185478,
+    "lng": -108.676643,
+    "locations": [
+      "at Rain Creek Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #945",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.8 miles (one way), along Sacaton Creek to Rain Creek Trailhead.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.262250,-108.871256",
+    "lat": 33.26225,
+    "lng": -108.87125556,
+    "locations": [
+      "at Forest Road 4055R"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #946",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "4.6 miles (one way), east of Pleasanton.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.304508,-108.857742",
+    "lat": 33.30450833,
+    "lng": -108.85774167,
+    "locations": [
+      "at Forest Road 4055W"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #947",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.6 miles (one way), between Glenwood and Gila Wilderness boundary above Little Whitewater Creek.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.467597,-108.779947",
+    "lat": 33.46759722,
+    "lng": -108.77994722,
+    "locations": [
+      "at Forest Road 4056X"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #949",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.44 miles (one way), north of Deep Creek.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.516428,-108.707233",
+    "lat": 33.51642778,
+    "lng": -108.70723333,
+    "locations": [
+      "at Forest Road 626A Potato Canyon"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #949A",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "5.8 miles (one way), over Deep Creek Divide to Lost Lake Mountain; straddles Reserve and Glenwood districts.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.355883,-108.893761",
+    "lat": 33.35588333,
+    "lng": -108.89376111,
+    "locations": [
+      "at Forest Road 4056E"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #950",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "2.2 miles (one way), south of NM Highway 159 and north of Harve Gulch.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.374700,-108.881511",
+    "lat": 33.3747,
+    "lng": -108.88151111,
+    "locations": [
+      "at NM Highway 159"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #951",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "0.3 miles (one way), connects Motorized Trail #950 with NM Highway 159 at Hugh Bar Mesa Road.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.593254,-108.961470",
+    "lat": 33.593254,
+    "lng": -108.96147,
+    "locations": [
+      "at Pueblo Park Campground"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Pueblo Interpretive Trail #5151",
+        "district": "Glenwood Recreation District",
+        "status": "Open",
+        "description": "1.7 miles (one way), at Pueblo Park Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.179642,-108.433739",
+    "lat": 34.17964167,
+    "lng": -108.43373889,
+    "locations": [
+      "at Forest Road 13D"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Escondido Trail #2",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "3.9 miles (one way), northeast of Quemado Lake, off Baca Road.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.052175,-108.644769",
+    "lat": 34.052175,
+    "lng": -108.64476944,
+    "locations": [
+      "at Forest Road 4008J"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Top Tank Trail #5",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "3.3 miles (one way), east of NM Highway 32 at Jewett Gap.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      },
+      {
+        "name": "Gallo Peak Trail #6",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1.3 miles (one way), east of NM Highway 32 at Jewett Gap.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.069039,-108.704839",
+    "lat": 34.06903889,
+    "lng": -108.70483889,
+    "locations": [
+      "at Fox Mountain Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Willie Steel Trail #9",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "3 miles (one way), near top of Fox Mountain.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.127775,-108.501142",
+    "lat": 34.127775,
+    "lng": -108.501142,
+    "locations": [
+      "at Lake Overlook Trail #132"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Sawmill Canyon Trail #13",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.4 miles (one way), between Quemado Lake and Slaughter Mesa Road.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.136845,-108.473373",
+    "lat": 34.136845,
+    "lng": -108.473373,
+    "locations": [
+      "at Largo Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Largo Trail #14",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.6 miles (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.102092,-108.661267",
+    "lat": 34.10209167,
+    "lng": -108.66126667,
+    "locations": [
+      "at Forest Road 4007R"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Blanco Trail #18",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.6 miles (one way), west of NM Highway 32 off Demetrio Creek Road.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.876603,-108.807664",
+    "lat": 33.87660278,
+    "lng": -108.80766389,
+    "locations": [
+      "at Forest Road 3020"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Freeman Mountain Trail #33",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "3.5 miles (one way), Cottonwood Canyon east of Centerfire Creek.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.879378,-108.827919",
+    "lat": 33.87937778,
+    "lng": -108.82791944,
+    "locations": [
+      "at Freeman Mountain Trail #33"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Dillon Mountain Trail #34",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "3.8 miles (one way), north of San Francisco River to Cottonwood Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.835294,-108.957642",
+    "lat": 33.83529444,
+    "lng": -108.95764167,
+    "locations": [
+      "at Forest Road 19"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Airstrip Mesa Trail #35",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.2 miles (one way), northeast of Luna.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.761814,-108.977257",
+    "lat": 33.761814,
+    "lng": -108.977257,
+    "locations": [
+      "at Dry Blue Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Dry Blue Trail #61",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.7 miles (one way), southwest of Luna.",
+        "uses": [
+          "OHV use",
+          "Hiking",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Blue Spring Trail #62",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1.2 miles (one way), southwest of Luna.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Colyer Spring Trail #63",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.3 miles (one way), southwest of Luna.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Mother Hubbard Trail #64",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), New Mexico side of Arizona/New Mexico state line southwest of Luna.",
+        "uses": [
+          "Hiking",
+          "OHV use",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.225697,-108.390404",
+    "lat": 34.225697,
+    "lng": -108.390404,
+    "locations": [
+      "at Quemado North End CDNST Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "Traverses 248 miles of Gila National Forest; 32 miles (one way) north-south through this district.",
+        "uses": [
+          "Backpacking",
+          "Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.935078,-108.417992",
+    "lat": 33.935078,
+    "lng": -108.417992,
+    "locations": [
+      "at Continental Divide CDNST Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; 45 miles (one way) north-south through this district. Enters at Highway 12, travels southeast past Eagle Peak and exits north of O Bar O Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.974367,-108.974997",
+    "lat": 33.97436667,
+    "lng": -108.97499722,
+    "locations": [
+      "at Forest Road 385"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Jim Smith Trail #109",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.1 miles (one way), north of Luna.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.926172,-108.797906",
+    "lat": 33.92617222,
+    "lng": -108.79790556,
+    "locations": [
+      "at Forest Road 4029A"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Upper Cottonwood Canyon Trail #119",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.4 miles (one way), north of Reserve.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.801174,-108.815674",
+    "lat": 33.801174,
+    "lng": -108.815674,
+    "locations": [
+      "at Upper Frisco Hot Springs Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Warm Springs Trail #124",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.15 miles (one way), northwest of Reserve on Frisco Divide.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.732108,-108.803292",
+    "lat": 33.73210833,
+    "lng": -108.80329167,
+    "locations": [
+      "at Forest Road 4042N"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Mail Trail #125",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "10 miles (one way), northwest of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.803286,-108.922231",
+    "lat": 33.80328611,
+    "lng": -108.92223056,
+    "locations": [
+      "at Luna Valley Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Mail Trail #125",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "10 miles (one way), northwest of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.723109,-109.040627",
+    "lat": 33.723109,
+    "lng": -109.040627,
+    "locations": [
+      "at Forest Road 4"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Frieborn Canyon Trail #126",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "5.1 miles (one way), off Frisco Divide Road near Arizona/New Mexico state line.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.124803,-108.494222",
+    "lat": 34.124803,
+    "lng": -108.494222,
+    "locations": [
+      "at Quemado Lake Fishing Trail #144"
+    ],
+    "activities": [
+      "Fishing",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Quemado Lake Overlook Trail #132",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Fishing",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.136886,-108.490725",
+    "lat": 34.136886,
+    "lng": -108.490725,
+    "locations": [
+      "at Cove Day Use Area"
+    ],
+    "activities": [
+      "Cycling",
+      "Fishing",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Quemado Lake Fishing Trail #144",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "2.8 miles (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Nature Viewing",
+          "Viewing Scenery",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Cove-Lake Access Trail #1443",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.1 miles (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Fishing access"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.138103,-108.483553",
+    "lat": 34.138103,
+    "lng": -108.483553,
+    "locations": [
+      "at Pinon Campground"
+    ],
+    "activities": [
+      "Fishing",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Pinon-Lake Access Trail #147",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.4 mile (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Fishing access"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.124083,-108.495489",
+    "lat": 34.124083,
+    "lng": -108.495489,
+    "locations": [
+      "at Lake Overlook Trail #132"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Vista Trail #149",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.846775,-108.954847",
+    "lat": 33.846775,
+    "lng": -108.95484722,
+    "locations": [
+      "at Forest Road 19"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Trout Creek Trail #351",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (one way), north of Luna.",
+        "uses": [
+          "Day Hiking",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.836139,-108.935639",
+    "lat": 33.83613889,
+    "lng": -108.93563889,
+    "locations": [
+      "at Airstrip Mesa Trail #35"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Trout Creek Trail #351",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (one way), north of Luna.",
+        "uses": [
+          "Day Hiking",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.046828,-108.305294",
+    "lat": 34.046828,
+    "lng": -108.305294,
+    "locations": [
+      "at Mangas Mountain Lookout Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Mangas Spur Trail #743",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "4.2 miles (one way), near Valle Tio Vinces Campground and Mangas Mountain.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.033306,-108.350620",
+    "lat": 34.033306,
+    "lng": -108.35062,
+    "locations": [
+      "at Valle Tio Vinces Campground"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Valle Tio Vinces Spur Trail #744",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.8 miles (one way), at Valle Tio Vinces Campground.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.726081,-109.045636",
+    "lat": 33.72608056,
+    "lng": -109.04563611,
+    "locations": [
+      "at Forest Road 281"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Frieborn Access Trail #1261",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.7 miles (one way), southwest of Luna near Arizona/New Mexico state line.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.133592,-108.481703",
+    "lat": 34.133592,
+    "lng": -108.481703,
+    "locations": [
+      "at Largo Canyon Trail #14"
+    ],
+    "activities": [
+      "Cycling",
+      "Fishing",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Lakeshore Access Trail #1441",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.25 miles (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Fishing access"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.137543,-108.489190",
+    "lat": 34.137543,
+    "lng": -108.48919,
+    "locations": [
+      "at Juniper Campground"
+    ],
+    "activities": [
+      "Cycling",
+      "Fishing",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Juniper-Lake Access Trail #1442",
+        "district": "Quemado Ranger District",
+        "status": "Open",
+        "description": "0.1 miles (one way), at Quemado Lake Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Fishing access"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.824665,-108.614540",
+    "lat": 33.82466507,
+    "lng": -108.6145401,
+    "locations": [
+      "at Apache Creek Campground"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Apache Creek Interpretive Trail #16",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "0.9 miles (one way), 0.7 mile southeast of Apache Creek Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "Interpretive Areas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.742096,-108.477615",
+    "lat": 33.742096,
+    "lng": -108.477615,
+    "locations": [
+      "at Cox Canyon Trailhead"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Divide Trail #15",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "17.1 miles (one way), east of Reserve over Eagle Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.597569,-108.628830",
+    "lat": 33.597569,
+    "lng": -108.62883,
+    "locations": [
+      "at Rainy Mesa Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Divide Trail #15",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "17.1 miles (one way), east of Reserve over Eagle Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking"
+        ]
+      },
+      {
+        "name": "Negrito Trail #131",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "9.8 miles (one way), southeast of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.837959,-108.428040",
+    "lat": 33.837959,
+    "lng": -108.42804,
+    "locations": [
+      "at Cox Canyon-CDNST Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; 45 miles (one way) north-south through this district. Enters at Highway 12, travels southeast past Eagle Peak and exits north of O Bar O Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.659157,-108.439484",
+    "lat": 33.659157,
+    "lng": -108.439484,
+    "locations": [
+      "at Bounty B-054 CDNST Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; 45 miles (one way) north-south through this district. Enters at Highway 12, travels southeast past Eagle Peak and exits north of O Bar O Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.673133,-108.759094",
+    "lat": 33.67313333,
+    "lng": -108.75909444,
+    "locations": [
+      "at Forest Road 4042G"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Negrito Springs Trail #118A",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "2.1 miles (one way), southeast of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.671483,-108.683772",
+    "lat": 33.67148333,
+    "lng": -108.68377222,
+    "locations": [
+      "at Negrito Creek Trail #131"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Milligan Trail #122",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1.3 miles (one way), southeast of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.633417,-108.664294",
+    "lat": 33.63341667,
+    "lng": -108.66429444,
+    "locations": [
+      "at Negrito Creek Trail #131"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Chimney Trail #136",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "4.4 miles (one way), southeast of Reserve.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.377453,-108.630478",
+    "lat": 33.377453,
+    "lng": -108.630478,
+    "locations": [
+      "at Bead Springs Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Bead Springs Trail #138",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.5 miles (one way), northern Gila Wilderness along Willow Creek; trail is not traceable.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.423103,-108.499000",
+    "lat": 33.423103,
+    "lng": -108.499,
+    "locations": [
+      "at Snow Lake Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Snow Lake Trail #142",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), at Snow Lake.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.411705,-108.457443",
+    "lat": 33.411705,
+    "lng": -108.457443,
+    "locations": [
+      "at Loco Mountain Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Loco Mountain Trail #143",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "3.1 miles (one way), northern Gila Wilderness east of Snow Lake.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.399970,-108.583400",
+    "lat": 33.39997,
+    "lng": -108.5834,
+    "locations": [
+      "at Willow Creek Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "West Fork Trail #151",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "32.7 miles (one way), along West Fork Gila River between Gila Cliff Dwellings and Willow Creek; sections are relatively impassable or obstructed.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Iron Creek Mesa Trail #171",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.3 miles (one way), northern Gila Wilderness south of Willow Creek Campground.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      },
+      {
+        "name": "Whitewater Baldy Trail #172",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.5 miles (one way), northern Gila Wilderness between Willow Creek Campground and Whitewater Baldy Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.409360,-108.575200",
+    "lat": 33.40936,
+    "lng": -108.5752,
+    "locations": [
+      "at Gilita Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Middle Fork #157",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "41.4 miles (one way), along Middle Fork Gila River between Gila Cliff Dwellings and Willow Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.225758,-108.241150",
+    "lat": 33.225758,
+    "lng": -108.24115,
+    "locations": [
+      "at Middle Fork Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Middle Fork #157",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "41.4 miles (one way), along Middle Fork Gila River between Gila Cliff Dwellings and Willow Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.791489,-108.673897",
+    "lat": 33.791489,
+    "lng": -108.673897,
+    "locations": [
+      "at Walk in the Past Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Walk in the Past Trail #616",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1.4 miles (one way), northeast of Reserve.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Scenic Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.417004,-108.440826",
+    "lat": 33.417004,
+    "lng": -108.440826,
+    "locations": [
+      "at Aeroplane Mesa Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Aeroplane Mesa #705 Trail",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "3.8 miles (one way), northern Gila Wilderness across Aeroplane Mesa to Middle Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.409058,-108.396080",
+    "lat": 33.409058,
+    "lng": -108.39608,
+    "locations": [
+      "at Flying V Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Flying V Trail #706",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5 miles (one way), northern Gila Wilderness down Flying V Canyon to Middle Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Canyon Creek Trail #31",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), northern Gila Wilderness between Flying V Trail and Middle Fork Trail.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.748281,-108.792072",
+    "lat": 33.74828056,
+    "lng": -108.79207222,
+    "locations": [
+      "at Forest Road 4161U"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Spur Ranch Trail #761",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "5.1 miles (one way), northwest of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Bicycling",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.788458,-108.833756",
+    "lat": 33.78845833,
+    "lng": -108.83375556,
+    "locations": [
+      "at Forest Road 35 Highland Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Spur Ranch Trail #761",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "5.1 miles (one way), northwest of Reserve.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Bicycling",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.787418,-108.770843",
+    "lat": 33.787418,
+    "lng": -108.770843,
+    "locations": [
+      "at Frisco Box Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Fishing",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Frisco Box Trail #762",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "6.9 miles (one way), northwest of Reserve along upper San Francisco River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "River and Stream Fishing",
+          "Swimming"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.728355,-108.613701",
+    "lat": 33.728355,
+    "lng": -108.613701,
+    "locations": [
+      "at Eagle Peak Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Piney Park Trail #766",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (one way), east slope of Eagle Peak east of Reserve.",
+        "uses": [
+          "Hiking",
+          "Horse Riding",
+          "Bicycling",
+          "OHV riding"
+        ]
+      },
+      {
+        "name": "Wilson Canyon Trail #768",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "5.1 miles (one way); first 1.27 miles open to OHV.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.712983,-108.767406",
+    "lat": 33.71298333,
+    "lng": -108.76740556,
+    "locations": [
+      "at end of Airport Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Reserve Fitness Trail #769",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "0.9 mile (loop), west end of Airport Road at Reserve Ranger District housing compound.",
+        "uses": [
+          "Day Hiking",
+          "Trail Running",
+          "Horse Riding",
+          "Bicycling"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.827950,-108.670564",
+    "lat": 33.82795,
+    "lng": -108.67056389,
+    "locations": [
+      "at end of Forest Road 540"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #952",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "4.2 miles (one way), north of Cruzville in Wilson Canyon and First Apache Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #953",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (one way), north of Cruzville in Wilson Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #954",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1.1 miles (one way), north of Cruzville in Wilson Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.658278,-108.735419",
+    "lat": 33.65827778,
+    "lng": -108.73541944,
+    "locations": [
+      "at Forest Road 4042G"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #956",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "1.1 miles (one way), south of Reserve and Negrito Creek.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.658183,-108.718753",
+    "lat": 33.65818333,
+    "lng": -108.71875278,
+    "locations": [
+      "at end of Forest Road 4042G"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #957",
+        "district": "Reserve Ranger District",
+        "status": "Open",
+        "description": "4.2 miles (loop), south of Reserve and Negrito Creek.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.800129,-108.153488",
+    "lat": 32.800129,
+    "lng": -108.153488,
+    "locations": [
+      "at Woodhaul Wagon Road Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Woodhaul Wagon Road Trail #55",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "11.4 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Old Golf Course Trail #723",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.1 mile (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.841774,-108.144272",
+    "lat": 32.841774,
+    "lng": -108.144272,
+    "locations": [
+      "at Big Tree Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Woodhaul Wagon Road Trail #55",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "11.4 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Fort Bayard Big Tree Trail #755",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.1 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Plants",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Stevens Ranch Trail #756",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.9 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Plants",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "FS Nursery Road #757",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.3 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Plants",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Cornell Ranch Trail #758",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Plants",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.811444,-108.146811",
+    "lat": 32.81144444,
+    "lng": -108.14681111,
+    "locations": [
+      "along Forest Road 536"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Woodhaul Spur Trail #55C",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.3 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.847908,-108.276787",
+    "lat": 32.847908,
+    "lng": -108.276787,
+    "locations": [
+      "at Gomez Peak Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Gomez Peak Trail #71",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.75 miles (one way), Gomez Peak/Little Walnut Day Use Area.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Eighty Mountain Trail #710",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.6 miles (one way), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Pinon Loop #711",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.6 miles (loop), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Divide Access Trail #712",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.9 miles (one way), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Angel Loop #717",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (loop), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Dragon Loop #718",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.6 miles (one way), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Mountain Loop #719",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (loop), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.006374,-108.115593",
+    "lat": 33.006374,
+    "lng": -108.115593,
+    "locations": [
+      "at Sapillo CDNST Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; enters district in Aldo Leopold Wilderness, crosses Black Canyon and Aspen Canyon, then continues toward Sapillo Group Campground.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.862507,-108.290047",
+    "lat": 32.862507,
+    "lng": -108.290047,
+    "locations": [
+      "at Wagon Wheel CDNST Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; 86 miles in this district, including 38 miles from Sapillo CDNST Trailhead to forest edge and 48 miles through Burro Mountains.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.656902,-108.498894",
+    "lat": 32.656902,
+    "lng": -108.498894,
+    "locations": [
+      "at Redrock Road CDNST Trailhead",
+      "at Redrock Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; 86 miles in this district, including 38 miles from Sapillo CDNST Trailhead to forest edge and 48 miles through Burro Mountains.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Motorized Trail #904",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.8 miles (one way), off Redrock Road and Forest Ridge Road in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #905",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.9 mile (one way), off Redrock Road and Forest Ridge Road in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #906",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.9 miles (one way), off Redrock Road and Forest Ridge Road in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.492470,-108.480377",
+    "lat": 32.49247,
+    "lng": -108.480377,
+    "locations": [
+      "at C Bar CDNST Trailhead",
+      "at C Bar Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; 86 miles in this district, including 38 miles from Sapillo CDNST Trailhead to forest edge and 48 miles through Burro Mountains.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Motorized Trail #924",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.3 miles (one way), west of Gold Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #925",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "4.1 miles (one way), west of Gold Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #926",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), south of NM Highway 90 in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.846000,-108.319822",
+    "lat": 32.846,
+    "lng": -108.31982222,
+    "locations": [
+      "at Trail #74"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Bear Mountain Spur Trail #74A",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "6.1 miles (one way), north of Bear Mountain northwest of Silver City.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.863083,-108.381322",
+    "lat": 32.86308333,
+    "lng": -108.38132222,
+    "locations": [
+      "at Forest Road 172",
+      "at Servis Corrals Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Bear Mountain Spur Trail #74A",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "6.1 miles (one way), north of Bear Mountain northwest of Silver City.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Servis Corrals Trail #725",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.778467,-108.505394",
+    "lat": 32.77846667,
+    "lng": -108.50539444,
+    "locations": [
+      "at Saddlerock Canyon Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Burros Spur Trail #74B",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "9.7 miles (one way), northern Burro Mountains west of Mangas Springs.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.878881,-108.312397",
+    "lat": 32.87888056,
+    "lng": -108.31239722,
+    "locations": [
+      "at Forest Road 506"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Thirty Something Trail #74C",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.25 miles (one way), off Little Walnut Road north of Silver City.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.931099,-108.012817",
+    "lat": 32.931099,
+    "lng": -108.012817,
+    "locations": [
+      "at Allie Canyon Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Allie Canyon Trail #100",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "7.6 miles (one way), off NM Highway 35 adjacent to Wilderness Ranger District office toward Signal Peak.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Bear Canyon Trail #104",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "5.4 miles (one way), south of Allie Canyon Trail in upper Bear Dam Canyon.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.067070,-108.498962",
+    "lat": 33.06707,
+    "lng": -108.498962,
+    "locations": [
+      "at Turkey Creek Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Turkey Creek Trail #155",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "28.5 miles (one way), Gila Wilderness between Mogollon Box and West Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Gila River Trail #724",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "32.6 miles (one way), southern Gila Wilderness along mainstem Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.976635,-108.307045",
+    "lat": 32.976635,
+    "lng": -108.307045,
+    "locations": [
+      "at Sheep Corral Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Fishing",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Sheep Corral Trail #231",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.7 miles (one way), southwestern Gila Wilderness between Sheep Corral and Gila River.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Fishing",
+          "River and Stream Fishing"
+        ]
+      },
+      {
+        "name": "Tadpole Ridge Trail #232",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "8.9 miles (one way), north of Silver City along Tadpole Ridge.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.939495,-108.197220",
+    "lat": 32.939495,
+    "lng": -108.19722,
+    "locations": [
+      "at Signal Peak Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Tadpole Ridge Trail #232",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "8.9 miles (one way), north of Silver City along Tadpole Ridge.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Signal Peak Trail #742",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.9 miles (one way), east of NM Highway 15 to Signal Peak.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.981178,-108.271584",
+    "lat": 32.981178,
+    "lng": -108.271584,
+    "locations": [
+      "at Snow Creek Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Snow Creek Trail #233",
+        "district": "Silver City Ranger District",
+        "status": "nan",
+        "description": "5.1 miles (one way), Sheep Corral area between Tadpole Ridge and Gila Wilderness.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.965108,-108.292894",
+    "lat": 32.96510833,
+    "lng": -108.29289444,
+    "locations": [
+      "at Tadpole Ridge saddle"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Sycamore Canyon Trail #234",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "8.4 miles (one way), south of Tadpole Ridge to Bear Creek.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.915728,-108.298422",
+    "lat": 32.91572778,
+    "lng": -108.29842222,
+    "locations": [
+      "at Admin Trail #235SP",
+      "at Sycamore Canyon Trail #234"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Sycamore Canyon Trail #234",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "8.4 miles (one way), south of Tadpole Ridge to Bear Creek.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Admin Trail #235SP",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.6 miles (one way), south end of Sycamore Canyon Trail #234, connecting to Bear Creek.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.895122,-108.322600",
+    "lat": 32.89512222,
+    "lng": -108.3226,
+    "locations": [
+      "at Forest Road 506"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #235",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.6 miles (one way), north of Silver City to Bear Creek.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking",
+          "OHVs 50 inches or smaller"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.902964,-108.311989",
+    "lat": 32.90296389,
+    "lng": -108.31198889,
+    "locations": [
+      "at Trail #235"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Admin Trail #235SP",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.6 miles (one way), south end of Sycamore Canyon Trail #234, connecting to Bear Creek.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.007639,-108.337242",
+    "lat": 33.00763889,
+    "lng": -108.33724167,
+    "locations": [
+      "at end of Forest Road 282"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Goose Lake Trail #238",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "5.1 miles (one way), off Sheep Corral Road (Forest Road 282), south of Gila Wilderness.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.999211,-108.330819",
+    "lat": 32.99921111,
+    "lng": -108.33081944,
+    "locations": [
+      "at Forest Road 282",
+      "at Forest Road 282 and Dorsey Canyon Trail #239"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Dorsey Canyon Trail #239",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), off Sheep Corral Road south of Gila Wilderness boundary.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Pack Saddle Trail #732",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.6 miles (one way), Sheep Corral area, off Dorsey Canyon Trail #239.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Backpacking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.995064,-108.382144",
+    "lat": 32.99506389,
+    "lng": -108.38214444,
+    "locations": [
+      "at west end of Trail #239"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Dorsey Canyon Trail #239",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), off Sheep Corral Road south of Gila Wilderness boundary.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.895736,-108.235169",
+    "lat": 32.89573611,
+    "lng": -108.23516944,
+    "locations": [
+      "at NM Highway 15"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Little Cherry Trail #241",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "4.3 miles (one way), east of NM Highway 15, about 10 miles north of Silver City.",
+        "uses": [
+          "Day Hiking",
+          "Backpacking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.832814,-108.160058",
+    "lat": 32.83281389,
+    "lng": -108.16005833,
+    "locations": [
+      "at Woodhaul Wagon Trail #55 / FS Nursery Road Trail #757 intersection"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Sawmill Wagon Road Trail #243",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "6.5 miles (one way), Fort Bayard trail system, connects to Continental Divide National Scenic Trail #74.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Nature Viewing",
+          "Viewing Wildlife"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.040450,-108.219958",
+    "lat": 33.04045,
+    "lng": -108.21995833,
+    "locations": [
+      "at NM Highway 15 and Sapillo Creek"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Spring Canyon Trail #247",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "8.5 miles (one way), southern Gila Wilderness between NM Highway 15/35 intersection and Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.794800,-108.183937",
+    "lat": 32.7948,
+    "lng": -108.183937,
+    "locations": [
+      "at Dragonfly Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Old Highway Trail #260",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.8 miles (one way), southern Fort Bayard Trail System, connects Dragonfly Trailhead with Fort Bayard.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Dragonfly Loop Trail #720",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (loop), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "Outdoor Learning"
+        ]
+      },
+      {
+        "name": "Crosscountry Course #722",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.7 miles (loop), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Trail Running",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Servis Corrals Trail #725",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Twin Sisters Creek Trail #726",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Fence Line Trail #727",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3 miles (one way), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.853958,-108.275192",
+    "lat": 32.853958,
+    "lng": -108.275192,
+    "locations": [
+      "at Little Walnut Picnic Area"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Wagon Wheel Loop Trail #701",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.1 miles (loop), about 7 miles north of Silver City in Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Picnic Loop Trail #714",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.1 miles (loop), Gomez Peak/Little Walnut trail system.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.786518,-108.159363",
+    "lat": 32.786518,
+    "lng": -108.159363,
+    "locations": [
+      "at Crosscountry Course Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Crosscountry Course #722",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.7 miles (loop), Fort Bayard Recreation Area.",
+        "uses": [
+          "Day Hiking",
+          "Trail Running",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.179768,-108.205887",
+    "lat": 33.179768,
+    "lng": -108.205887,
+    "locations": [
+      "at Gila River Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Gila River Trail #724",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "32.6 miles (one way), southern Gila Wilderness along mainstem Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.813381,-108.600678",
+    "lat": 32.813381,
+    "lng": -108.600678,
+    "locations": [
+      "at Bird Sanctuary Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Bird Sanctuary Trail #745",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.2 miles (one way), southwest of Cliff.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.887470,-107.859657",
+    "lat": 32.88747,
+    "lng": -107.859657,
+    "locations": [
+      "at Rabb Park Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Rabb Park Trail #747",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "8.6 miles (one way), north of NM Highway 152 to Quaking Aspen Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.615753,-108.407196",
+    "lat": 32.615753,
+    "lng": -108.407196,
+    "locations": [
+      "at Deadman Canyon Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Deadman Canyon Trail #786",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.4 miles (one way), Burro Mountains off Tyrone-Thompson Road.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      },
+      {
+        "name": "Motorized Trail #908",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "4 miles (one way), east of Redrock and Forest Ridge roads in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #909",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.1 miles (one way), east of Redrock and Forest Ridge roads in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #910",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.2 miles (one way), east of Redrock and Forest Ridge roads in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #911",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "3.6 miles (one way), east of Redrock and Forest Ridge roads in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #912",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (one way), east of Redrock and Forest Ridge roads in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #913",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.2 miles (one way), California Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #914",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.6 miles (one way), California Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #915",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.6 miles (one way), west of California Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #918",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.2 miles (one way), south of Deadman Trailhead in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.886997,-107.858162",
+    "lat": 32.886997,
+    "lng": -107.858162,
+    "locations": [
+      "at Lower Gallinas Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Lower Gallinas Trail #795",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (one way), south of NM Highway 152.",
+        "uses": [
+          "Hiking",
+          "Backpacking",
+          "Horseback Riding",
+          "Mountain Biking"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.787654,-108.494987",
+    "lat": 32.787654,
+    "lng": -108.494987,
+    "locations": [
+      "at Saddlerock Canyon Road"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #900",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (loop), Saddle Rock Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Gnarly Trail #901",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "5 miles (one way), Saddle Rock Canyon.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #902",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.25 miles (one way), Saddle Rock Canyon area.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.630065,-108.481060",
+    "lat": 32.630065,
+    "lng": -108.48106,
+    "locations": [
+      "at Forest Ridge Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #903",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "5.8 miles (one way), off Redrock Road and Forest Ridge Road in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #907",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.3 miles (one way), off Redrock Road and Forest Ridge Road in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #917",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.2 miles (one way), Road Canyon off Tyrone Thompson Road in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.549473,-108.427727",
+    "lat": 32.549473,
+    "lng": -108.427727,
+    "locations": [
+      "at Jack's Peak Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #919",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.9 miles (one way), east of Jack's Peak in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #920",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.5 miles (one way), east of Jack's Peak in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #921",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.3 miles (one way), east of Gold Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #922",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (one way), east of Gold Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #922A",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.1 mile (one way), east of Gold Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #923",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "6.5 miles (one way), west of Gold Gulch in Burro Mountains.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.008007,-108.115234",
+    "lat": 33.00800705,
+    "lng": -108.11523438,
+    "locations": [
+      "at Sapillo Group Campground"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #960",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.6 miles (one way), south of NM Highway 35 at Sapillo Group Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #961",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), south of NM Highway 35 at Sapillo Group Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #962",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.25 miles (one way), south of NM Highway 35 at Sapillo Group Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail #963",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (one way), south of NM Highway 35 at Sapillo Group Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail 964",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "1.7 miles (one way), south of NM Highway 35 at Sapillo Group Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      },
+      {
+        "name": "Motorized Trail 964A",
+        "district": "Silver City Ranger District",
+        "status": "Open",
+        "description": "0.02 miles (one way), south of NM Highway 35 at Sapillo Group Campground.",
+        "uses": [
+          "Day Hiking",
+          "Horse Riding",
+          "Mountain Biking",
+          "E-biking",
+          "OHV Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.286214,-108.363306",
+    "lat": 33.28621389,
+    "lng": -108.36330556,
+    "locations": [
+      "at Lilley Park Trail #164"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Woodland Park Trail #12",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.1 miles (one way), Gila Wilderness between West and Middle forks of Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.494383,-108.226922",
+    "lat": 33.49438333,
+    "lng": -108.22692222,
+    "locations": [
+      "at Black Mountain Lookout"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Jordan Canyon Trail #20",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.3 miles (one way), northern Gila Wilderness in Jordan Canyon south of Black Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Sam Martin Trail #23",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.2 miles (one way), northern Gila Wilderness between Black Mountain and Indian Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "CCC Trail #772",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.6 miles (one way), northeastern Gila Wilderness between CCC Canyon and Black Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.386883,-108.257583",
+    "lat": 33.38688333,
+    "lng": -108.25758333,
+    "locations": [
+      "at Sam Martin Trail #23"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Cassidy Trail #25",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "7 miles (one way), northern Gila Wilderness between Black Mountain and Indian Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.302561,-108.147578",
+    "lat": 33.30256111,
+    "lng": -108.14757778,
+    "locations": [
+      "at end of Forest Road 704"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Green Fly Trail #26",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "13.8 miles (one way), northeastern Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.330717,-108.268528",
+    "lat": 33.33071667,
+    "lng": -108.26852778,
+    "locations": [
+      "at Green Fly Trail #26"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Tanks Trail #26A",
+        "district": "Wilderness Ranger District",
+        "status": "nan",
+        "description": "0.6 miles (one way), Gila Wilderness off Green Fly Trail #26.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.242067,-108.232086",
+    "lat": 33.24206667,
+    "lng": -108.23208611,
+    "locations": [
+      "at Middle Fork Trail #157"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "White Rocks Trail #27",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.6 miles (one way), eastern Gila Wilderness west of Whiterocks Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.244642,-108.290283",
+    "lat": 33.24464167,
+    "lng": -108.29028333,
+    "locations": [
+      "at West Fork Trail #151"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Big Bear Trail #28",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.7 miles (one way), Gila Wilderness between West and Middle forks of Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.312575,-108.372758",
+    "lat": 33.312575,
+    "lng": -108.37275833,
+    "locations": [
+      "at Prior Creek Trail #156"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Chicken Coop Trail #29",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.7 miles (one way), Gila Wilderness between Middle Fork Gila River and Lilley Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.276208,-108.458731",
+    "lat": 33.27620833,
+    "lng": -108.45873056,
+    "locations": [
+      "at West Fork Trail #151"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Trotter Trail #30",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "10.4 miles (one way), Gila Wilderness between West and Middle forks of Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.266346,-108.053429",
+    "lat": 33.266346,
+    "lng": -108.053429,
+    "locations": [
+      "at South Diamond Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "South Diamond Trail #68",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "15.5 miles (one way), Aldo Leopold Wilderness along South Diamond Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.231058,-107.895872",
+    "lat": 33.23105833,
+    "lng": -107.89587222,
+    "locations": [
+      "at South Diamond Creek Trail #68"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Burnt Canyon Trail #69",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (one way), Aldo Leopold Wilderness between Continental Divide and South Diamond Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.185284,-108.030670",
+    "lat": 33.185284,
+    "lng": -108.03067,
+    "locations": [
+      "at Upper Black Canyon Campground"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Black Canyon Trail #72",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "12.1 miles (one way), Black Canyon in Aldo Leopold Wilderness; no access across private property to trailhead; use Trail 72B - Black Canyon Access.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.122131,-108.006966",
+    "lat": 33.122131,
+    "lng": -108.006966,
+    "locations": [
+      "at Rocky Point Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; enters district in Aldo Leopold Wilderness, crosses Black Canyon and Aspen Canyon, then continues toward Sapillo Group Campground.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Aspen Canyon Trail #75",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.2 miles (one way), southwestern Aldo Leopold Wilderness in Aspen Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.066605,-107.985443",
+    "lat": 33.066605,
+    "lng": -107.985443,
+    "locations": [
+      "at CDNST Mimbres Trailhead",
+      "at CDNST/Mimbres Access Trailhead",
+      "at CDNST-Mimbres Access Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Continental Divide National Scenic Trail #74",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "248 miles across Gila National Forest; enters district in Aldo Leopold Wilderness, crosses Black Canyon and Aspen Canyon, then continues toward Sapillo Group Campground.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Mimbres Trail #77",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "11.2 miles (one way), southwestern Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "CDT-Mimbres Access Trail #741",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "3.3 miles (one way), western Aldo Leopold Wilderness between North Star Road and Continental Divide National Scenic Trail #74.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.093750,-107.889975",
+    "lat": 33.09375,
+    "lng": -107.889975,
+    "locations": [
+      "at Mimbres Trail #77"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Middle Fork Mimbres River Trail #78",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.5 miles (one way), southwestern Aldo Leopold Wilderness along Middle Fork Mimbres River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.050942,-107.868425",
+    "lat": 33.05094167,
+    "lng": -107.868425,
+    "locations": [
+      "at Powderhorn Ridge Trail #82"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "South Fork Mimbres River Trail #80",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.9 miles (one way), southwestern Aldo Leopold Wilderness along South Fork Mimbres River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.016449,-107.946144",
+    "lat": 33.016449,
+    "lng": -107.946144,
+    "locations": [
+      "at McKnight Cabin Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Powderhorn Ridge Trail #82",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.6 miles (one way), along Powderhorn Ridge to McKnight Mountain; part lies in Aldo Leopold Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Bicycling outside wilderness",
+          "Horseback Riding",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "McKnight Cabin Trail #92",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "7.5 miles (one way), west of Aldo Leopold Wilderness along East Fork Mimbres River, leads to wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Bicycling",
+          "Horseback Riding",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.991753,-107.898598",
+    "lat": 32.991753,
+    "lng": -107.898598,
+    "locations": [
+      "at East Canyon Trailhead"
+    ],
+    "activities": [
+      "Cycling",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Quaking Aspen Trail #86",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.4 miles (one way), west of Aldo Leopold Wilderness along Quaking Aspen Canyon, leads to wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Bicycling",
+          "Horseback Riding",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "East Canyon Trail #93",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4 miles (one way), west of Aldo Leopold Wilderness along East Canyon, leads to wilderness boundary.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Bicycling",
+          "Horseback Riding",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.183643,-108.036545",
+    "lat": 33.183643,
+    "lng": -108.036545,
+    "locations": [
+      "at Lower Black Canyon Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Lower Black Canyon Trail #94",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.5 miles (one way), eastern Gila Wilderness in Black Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.101040,-108.015152",
+    "lat": 33.10104,
+    "lng": -108.015152,
+    "locations": [
+      "at Brannon Park Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Big Timber Trail #95",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "3.5 miles (one way), eastern Gila Wilderness in Big Timber Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Brannon Park Trail #700",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.1 miles (one way), eastern Gila Wilderness between Rocky Canyon Campground and Continental Divide National Scenic Trail #74.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Caves Trail #803",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.8 miles (one way), west from Rocky Canyon Campground.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.026875,-108.136093",
+    "lat": 33.026875,
+    "lng": -108.136093,
+    "locations": [
+      "at Railroad Canyon Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Railroad Canyon Trail #96",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "9 miles (one way), southern Gila Wilderness between Lake Roberts and Apache Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.120453,-108.189735",
+    "lat": 33.120453,
+    "lng": -108.189735,
+    "locations": [
+      "at Military Trail Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Gila Flat Trail #97",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.7 miles (one way), Gila Wilderness between NM Highway 15 and Railroad Canyon Trail.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Military Road Trail #709",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.6 miles (one way), eastern Gila Wilderness between NM Highway 15 and East Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.376025,-108.537219",
+    "lat": 33.376025,
+    "lng": -108.53721944,
+    "locations": [
+      "at West Fork Trail #151"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Cooper Trail #141",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (one way), northern Gila Wilderness south of Iron Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.193731,-108.390292",
+    "lat": 33.19373056,
+    "lng": -108.39029167,
+    "locations": [
+      "at Turkey Creek Trail #155"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Granite Peak Trail #150",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.2 miles (one way), between Turkey Creek and top of Granite Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.229752,-108.265495",
+    "lat": 33.22975159,
+    "lng": -108.2654953,
+    "locations": [
+      "at West Fork Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "West Fork Trail #151",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "32.7 miles (one way), along West Fork Gila River between Gila Cliff Dwellings and Willow Creek; sections are relatively impassable or obstructed.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "West Fork Shortcut Trail #151A",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (one way), near Gila Cliff Dwellings.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "EE Canyon Trail #163",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.8 miles (one way), central Gila Wilderness along EE Canyon west of Gila Cliff Dwellings.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.270453,-108.595492",
+    "lat": 33.27045278,
+    "lng": -108.59549167,
+    "locations": [
+      "below Mogollon Baldy Lookout"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Mogollon Baldy Trail #152",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "9.1 miles (one way), west-central Gila Wilderness between West Fork Gila River and Mogollon Baldy Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.298300,-108.323803",
+    "lat": 33.2983,
+    "lng": -108.32380278,
+    "locations": [
+      "at Big Bear Trail #28"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Prior Creek Trail #156",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.7 miles (one way), Gila Wilderness between Middle Fork Gila River and Lilley Park Trail.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.199142,-108.508889",
+    "lat": 33.19914167,
+    "lng": -108.50888889,
+    "locations": [
+      "at Kemp Trail #301"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Sycamore Trail #158",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.8 miles (one way), west-central Gila Wilderness between Mogollon Creek and West Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "34.974433,-108.377003",
+    "lat": 34.97443333,
+    "lng": -108.37700278,
+    "locations": [
+      "at Turkey Creek Trail #155"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Miller Springs Trail #159",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.5 miles (one way), southern Gila Wilderness between Turkey Creek and Granny Mountain Trail.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.224697,-108.251724",
+    "lat": 33.224697,
+    "lng": -108.251724,
+    "locations": [
+      "at Woody's Corral Trailhead"
+    ],
+    "activities": [
+      "Fishing",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Granny Mountain Trail #160",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "20.4 miles (one way), southern Gila Wilderness over Granny Mountain between Gila Cliff Dwellings and Mainstem Gila River.",
+        "uses": [
+          "Backpacking",
+          "Fishing",
+          "River and Stream Fishing",
+          "Nature Viewing",
+          "Viewing Scenery",
+          "Viewing Wildlife"
+        ]
+      },
+      {
+        "name": "Little Creek Trail #161",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "8.6 miles (one way), central Gila Wilderness along Little Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Ring Canyon Trail #162",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "12.4 miles (one way), central Gila Wilderness between Gila Cliff Dwellings and McKenna Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.227116,-108.251396",
+    "lat": 33.227116,
+    "lng": -108.251396,
+    "locations": [
+      "at TJ Corral Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Lilley Park Trail #164",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "25.2 miles (one way), north-central Gila Wilderness between Little Bear Canyon and Turkeyfeather Pass.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Little Bear Trail #729",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.4 miles (one way), central Gila Wilderness between Gila Cliff Dwellings and Middle Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.339575,-108.448425",
+    "lat": 33.339575,
+    "lng": -108.448425,
+    "locations": [
+      "at Trotter Trail #30"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Clear Creek Trail #165",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.8 miles (one way), northwestern Gila Wilderness north of Lilley Mountain.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.229472,-108.435550",
+    "lat": 33.22947222,
+    "lng": -108.43555,
+    "locations": [
+      "at Ring Canyon Trail #162"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "McKenna Creek Trail #167",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.1 miles (one way), northwestern Gila Wilderness along McKenna Creek to McKenna Park.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.258328,-108.573417",
+    "lat": 33.25832778,
+    "lng": -108.57341667,
+    "locations": [
+      "at Mogollon Baldy Trail #152"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Trail Canyon Trail #169",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5 miles (one way), west-central Gila Wilderness between Mogollon Baldy Peak and Mogollon Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      },
+      {
+        "name": "Gobbler Canyon Trail #221",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.2 miles (one way), northwestern Gila Wilderness between Mogollon Baldy Peak and Mogollon Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.355008,-108.534036",
+    "lat": 33.35500833,
+    "lng": -108.53403611,
+    "locations": [
+      "at Turkeyfeather Pass"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Clayton Mesa Trail #175",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.3 miles (one way), northern Gila Wilderness between Iron Creek and Turkeyfeather Pass.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.202203,-108.413622",
+    "lat": 33.20220278,
+    "lng": -108.41362222,
+    "locations": [
+      "at Turkey Creek Trail #155"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Cienega (Upper Mogollon Creek Trail #177",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.9 miles (one way), central Gila Wilderness along Upper Mogollon Creek and Upper Little Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.264778,-108.460350",
+    "lat": 33.26477778,
+    "lng": -108.46035,
+    "locations": [
+      "at Turkey Creek Trail #155"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Horse Springs Trail #187",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.2 miles (one way), west-central Gila Wilderness at McKenna Park and Horse Spring.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding",
+          "Nature Viewing",
+          "Viewing Scenery"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.277011,-108.398528",
+    "lat": 33.27701111,
+    "lng": -108.39852778,
+    "locations": [
+      "at Hells Hole Bypass Trail #785"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Hells Hole Trail #268",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.8 miles (one way), west-central Gila Wilderness between Woodland Park and West Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Hells Hole Bypass Trail #785",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.6 miles (one way), central Gila Wilderness along West Fork Gila River at Hells Hole.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.217972,-108.536200",
+    "lat": 33.21797222,
+    "lng": -108.5362,
+    "locations": [
+      "at Mogollon Trail #153"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Kemp Trail #301",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.7 miles (one way), west-central Gila Wilderness along Mogollon Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.245086,-108.484322",
+    "lat": 33.24508611,
+    "lng": -108.48432222,
+    "locations": [
+      "at Mogollon Trail #153"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Langstroth Trail #302",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4 miles (one way), west-central Gila Wilderness between Diablo Range and Cub Mesa.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.231331,-107.892422",
+    "lat": 33.23133056,
+    "lng": -107.89242222,
+    "locations": [
+      "at South Diamond Trail"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Turkey Park Trail #308",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2 miles (one way), northern Aldo Leopold Wilderness west of Diamond Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.158451,-108.198334",
+    "lat": 33.158451,
+    "lng": -108.198334,
+    "locations": [
+      "at Alum Camp Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Brushy Mountain Trail #403",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "7.3 miles (one way), central Gila Wilderness between Brushy Mountain and Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      },
+      {
+        "name": "Alum Camp Trail #788",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.25 miles (one way), central Gila Wilderness between NM Highway 15 and Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.209980,-108.015106",
+    "lat": 33.20998,
+    "lng": -108.015106,
+    "locations": [
+      "at Me Own Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Me Own Trail #707",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4 miles (one way), western Aldo Leopold Wilderness south of South Diamond Creek.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.203072,-108.027718",
+    "lat": 33.203072,
+    "lng": -108.027718,
+    "locations": [
+      "at Tom Moore Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Tom Moore Canyon Trail #708",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "13.4 miles (one way), eastern Gila Wilderness along Tom Moore Canyon to East Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.265744,-108.095547",
+    "lat": 33.26574444,
+    "lng": -108.09554722,
+    "locations": [
+      "at Forest Road 4068"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Link Trail #713",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.2 miles (one way), northeastern Gila Wilderness between North Star Canyon and Tom Moore Canyon.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.194096,-108.033226",
+    "lat": 33.194096,
+    "lng": -108.033226,
+    "locations": [
+      "at Middle Mesa Trailhead"
+    ],
+    "activities": [
+      "Hiking",
+      "Horse Riding"
+    ],
+    "trails": [
+      {
+        "name": "Middle Mesa Trail #716",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "7.6 miles (one way), eastern Gila Wilderness between North Star Road and East Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Horse Riding"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.346597,-108.370039",
+    "lat": 33.34659722,
+    "lng": -108.37003889,
+    "locations": [
+      "at Middle Fork Trail #157"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Coop Mesa Trail #730",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (one way), north-central Gila Wilderness between Chicken Coop Canyon and Middle Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.269917,-108.147324",
+    "lat": 33.269917,
+    "lng": -108.147324,
+    "locations": [
+      "at Trails End Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Iron Trail #771",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.2 miles (one way), northeastern Gila Wilderness between Trails End Trailhead and Whiterocks Peak.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      },
+      {
+        "name": "Adobe Springs Trail #804",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.8 miles (one way), eastern Gila Wilderness between East Fork and Middle Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.177856,-107.853625",
+    "lat": 33.17785556,
+    "lng": -107.853625,
+    "locations": [
+      "at Trails #73/774"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Squeaky Trail #774",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "3.5 miles (one way), north-central Aldo Leopold Wilderness between Black Canyon and Reeds Peak; part of Continental Divide National Scenic Trail #74.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.032833,-108.153740",
+    "lat": 33.032833,
+    "lng": -108.15374,
+    "locations": [
+      "at Purgatory Chasm Trailhead"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Purgatory Chasm Trail #779",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.5 miles (loop), north of Lake Roberts into southern Gila Wilderness.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.234886,-108.354906",
+    "lat": 33.23488611,
+    "lng": -108.35490556,
+    "locations": [
+      "at Ring Canyon Trail #162"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Little Creek Cutoff Trail #789",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.8 miles (one way), central Gila Wilderness between Little Creek and Ring Canyon Trail.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.027016,-108.148788",
+    "lat": 33.027016,
+    "lng": -108.148788,
+    "locations": [
+      "at Pictograph Nature Trail Trailhead"
+    ],
+    "activities": [
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Pictograph Canyon Trail #800",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.4 mile (one way), east and south of Lake Roberts.",
+        "uses": [
+          "Day Hiking",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.030521,-108.157440",
+    "lat": 33.030521,
+    "lng": -108.15744,
+    "locations": [
+      "at Lake Roberts Boat Launch"
+    ],
+    "activities": [
+      "Fishing",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "Lake Roberts Trail #801",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.75 miles (one way), at Lake Roberts.",
+        "uses": [
+          "Day Hiking",
+          "Nature Viewing",
+          "Fishing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.312964,-108.486800",
+    "lat": 33.31296389,
+    "lng": -108.4868,
+    "locations": [
+      "at Lilley Park Trail #164"
+    ],
+    "activities": [
+      "Camping",
+      "Hiking"
+    ],
+    "trails": [
+      {
+        "name": "West Fork Corral Trail #814",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.9 miles (one way), northwestern Gila Wilderness between Lilley Mountain and West Fork Gila River.",
+        "uses": [
+          "Backpacking",
+          "Day Hiking",
+          "Dispersed Camping",
+          "Nature Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.045014,-108.001256",
+    "lat": 33.04501389,
+    "lng": -108.00125556,
+    "locations": [
+      "at Forest Road 4079R"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #965",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.1 miles (one way), west of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      },
+      {
+        "name": "Motorized Trail #966",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.65 miles (one way), west of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.040428,-107.998183",
+    "lat": 33.04042778,
+    "lng": -107.99818333,
+    "locations": [
+      "at Forest Road 150"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #967",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2.7 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.018958,-108.018467",
+    "lat": 33.01895833,
+    "lng": -108.01846667,
+    "locations": [
+      "at Forest Road 150"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #968",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "5.2 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.012286,-108.014458",
+    "lat": 33.01228611,
+    "lng": -108.01445833,
+    "locations": [
+      "at Motorized Trail #968"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #969",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.4 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.004783,-108.020939",
+    "lat": 33.00478333,
+    "lng": -108.02093889,
+    "locations": [
+      "at Motorized Trail #968"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #970",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.993886,-108.020631",
+    "lat": 32.99388611,
+    "lng": -108.02063056,
+    "locations": [
+      "at Motorized Trail #968"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #971",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.986122,-108.018781",
+    "lat": 32.98612222,
+    "lng": -108.01878056,
+    "locations": [
+      "at Trail #968"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #972",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "2 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.967406,-108.033111",
+    "lat": 32.96740556,
+    "lng": -108.03311111,
+    "locations": [
+      "at Motorized Trail #974"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #973",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.3 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.966492,-108.031872",
+    "lat": 32.96649167,
+    "lng": -108.03187222,
+    "locations": [
+      "at Motorized Trail #972"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #974",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.65 miles (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.967808,-108.037972",
+    "lat": 32.96780833,
+    "lng": -108.03797222,
+    "locations": [
+      "at Motorized Trail #974"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #974A",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.1 mile (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "33.016403,-108.020475",
+    "lat": 33.01640278,
+    "lng": -108.020475,
+    "locations": [
+      "at Forest Road 150"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #975",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1 mile (one way), east of Forest Road 150 (North Star Road).",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.987400,-108.003750",
+    "lat": 32.9874,
+    "lng": -108.00375,
+    "locations": [
+      "at Forest Road 4080T"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #976",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "6.8 miles (one way), east of Forest Road 150 between Mimbres River and Aldo Leopold Wilderness boundary.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.958692,-108.017158",
+    "lat": 32.95869167,
+    "lng": -108.01715833,
+    "locations": [
+      "at Forest Road 4202A"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #977",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.25 miles (one way), east of Forest Road 150.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.946333,-108.072767",
+    "lat": 32.94633333,
+    "lng": -108.07276667,
+    "locations": [
+      "at Forest Road 4085T"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #978",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.5 miles (one way), west of NM Highway 35 above Soldiers Canyon.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.959397,-107.985642",
+    "lat": 32.95939722,
+    "lng": -107.98564167,
+    "locations": [
+      "at end of Forest Road 4080X"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #979",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "1.9 miles (one way), along East Fork Mimbres River.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.938050,-107.962000",
+    "lat": 32.93805,
+    "lng": -107.962,
+    "locations": [
+      "at Motorized Trail #981"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #980",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "4.8 miles (one way), along McKnight Canyon.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "32.947086,-107.961414",
+    "lat": 32.94708611,
+    "lng": -107.96141389,
+    "locations": [
+      "at Forest Road 4086X"
+    ],
+    "activities": [
+      "Camping",
+      "Cycling",
+      "Hiking",
+      "Horse Riding",
+      "Motorised Recreation"
+    ],
+    "trails": [
+      {
+        "name": "Motorized Trail #981",
+        "district": "Wilderness Ranger District",
+        "status": "Open",
+        "description": "0.7 mile (one way), provides access into McKnight Canyon.",
+        "uses": [
+          "Hiking",
+          "Horseback Riding",
+          "Bicycling",
+          "E-Biking",
+          "OHV",
+          "Dispersed Camping",
+          "Nature Viewing",
+          "Wildlife Viewing"
+        ]
+      }
+    ]
+  }
+]

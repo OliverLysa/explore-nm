@@ -3,10 +3,9 @@
 import { useState } from "react"
 
 import {
-MapContainer,
-Marker,
-Popup,
-Tooltip
+  MapContainer,
+  Marker,
+  Popup,
 } from "react-leaflet"
 
 import "leaflet/dist/leaflet.css"
@@ -19,74 +18,15 @@ import L from "leaflet"
 import { trips, Trip } from "../data/trips"
 
 import ElevationChart from "./ElevationChart"
+import TrailheadsLayer, {
+  TRAIL_ACTIVITY_OPTIONS,
+  ACTIVITY_STYLES,
+  type TrailActivity,
+} from "./TrailheadsLayer"
 
 import LandManagementLayer, {
   LAND_MANAGER_OPTIONS,
 } from "./LandManagementLayer";
-
-// Hiking trail marker
-const icon = L.divIcon({
-  className: "hiking-marker",
-  html: `
-    <div class="hiking-marker__badge">
-      <svg viewBox="0 0 32 32" aria-hidden="true">
-        <circle cx="18" cy="4.5" r="2.8" fill="white"/>
-
-        <!-- Backpack -->
-        <rect x="11.5" y="9" width="5" height="8" rx="2" fill="white"/>
-
-        <!-- Body -->
-        <path
-          d="M17 9 L15 17"
-          stroke="white"
-          stroke-width="3"
-          stroke-linecap="round"
-        />
-
-        <!-- Front arm -->
-        <path
-          d="M16 11 L21 14 L23 11"
-          stroke="white"
-          stroke-width="2.4"
-          fill="none"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        />
-
-        <!-- Rear arm -->
-        <path
-          d="M14 12 L10 17"
-          stroke="white"
-          stroke-width="2.4"
-          fill="none"
-          stroke-linecap="round"
-        />
-
-        <!-- Legs -->
-        <path
-          d="M15 17 L13 22 L10 28 M15 17 L18 22 L20 28"
-          stroke="white"
-          stroke-width="2.8"
-          fill="none"
-          stroke-linecap="round"
-          stroke-linejoin="round"
-        />
-
-        <!-- Straight trekking poles -->
-        <path
-          d="M9 16 L5 29 M24 12 L24 29"
-          stroke="white"
-          stroke-width="1.8"
-          fill="none"
-          stroke-linecap="round"
-        />
-      </svg>
-    </div>
-  `,
-  iconSize: [38, 38],
-  iconAnchor: [19, 19],
-  popupAnchor: [0, -19]
-})
 
 const photoIcon = new L.Icon({
   iconUrl: "/icons/photo-marker.svg",
@@ -102,14 +42,16 @@ export default function HikeMap() {
   const [selectedTrip, setSelectedTrip] =
     useState<Trip | null>(null)
 
-  const [showRoutes, setShowRoutes] =
-  useState(true)
+  const [showRecreation, setShowRecreation] = useState(true)
+
+  const [showRecreationPanel, setShowRecreationPanel] = useState(false)
+
+  const [selectedActivities, setSelectedActivities] =
+    useState<TrailActivity[]>([...TRAIL_ACTIVITY_OPTIONS])
 
 
   const [selectedLandManagers, setSelectedLandManagers] =
-  useState<string[]>(
-    LAND_MANAGER_OPTIONS.map((manager) => manager.id)
-  );
+  useState<(typeof LAND_MANAGER_OPTIONS)[number]["id"][]>([]);
 
 const [showLandLegend, setShowLandLegend] =
   useState(false);
@@ -203,55 +145,112 @@ const [elevationData, setElevationData] =
         </div>
       )}
 
-{/* Legend */}
+{/* Unified Recreation Opportunities control */}
 <div
-  onClick={() => setShowRoutes(!showRoutes)}
   style={{
     position: "absolute",
     top: 20,
     right: 20,
-    zIndex: 1000,
-    background: "rgba(255,255,255,0.95)",
-    padding: "12px 16px",
+    zIndex: 1200,
+    width: "270px",
+    background: "rgba(255,255,255,0.97)",
     borderRadius: "14px",
-    boxShadow: "0 4px 14px rgba(0,0,0,0.18)",
-    display: "flex",
-    alignItems: "center",
-    gap: "12px",
-    fontSize: "15px",
-    fontWeight: 600,
-    cursor: "pointer",
-    opacity: showRoutes ? 1 : 0.5,
-    transition: "0.2s"
+    boxShadow: "0 4px 16px rgba(0,0,0,0.2)",
+    padding: "12px 14px",
+    fontSize: "13px",
+    color: "#24352d",
   }}
 >
-  <div
-    className="hiking-marker__badge"
-    style={{
-      width: "28px",
-      height: "28px",
-      flexShrink: 0
-    }}
-  >
-    <svg
-      viewBox="0 0 32 32"
-      aria-hidden="true"
-      style={{ width: "21px", height: "21px" }}
+  <div style={{ display: "flex", alignItems: "center", gap: "9px" }}>
+    <input
+      type="checkbox"
+      aria-label="Show recreation opportunities"
+      checked={showRecreation}
+      onChange={(e) => setShowRecreation(e.target.checked)}
+      style={{ width: "16px", height: "16px", flexShrink: 0 }}
+    />
+    <button
+      type="button"
+      onClick={() => setShowRecreationPanel((open) => !open)}
+      aria-expanded={showRecreationPanel}
+      style={{
+        flex: 1,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "space-between",
+        border: 0,
+        background: "none",
+        padding: 0,
+        cursor: "pointer",
+        fontWeight: 700,
+        fontSize: "14px",
+        color: "inherit",
+        textAlign: "left",
+      }}
     >
-      <circle cx="18" cy="4.5" r="2.8" fill="white" />
-      <rect x="11.5" y="9" width="5" height="8" rx="2" fill="white" />
-      <path d="M17 9 L15 17" stroke="white" strokeWidth="3" strokeLinecap="round" />
-      <path d="M16 11 L21 14 L23 11" stroke="white" strokeWidth="2.4" fill="none" strokeLinecap="round" strokeLinejoin="round" />
-      <path d="M14 12 L10 17" stroke="white" strokeWidth="2.4" fill="none" strokeLinecap="round" />
-      <path d="M15 17 L13 22 L10 28 M15 17 L18 22 L20 28" stroke="white" strokeWidth="2.8" fill="none" strokeLinecap="round" strokeLinejoin="round" />
-      <path d="M9 16 L5 29 M24 12 L24 29" stroke="white" strokeWidth="1.8" fill="none" strokeLinecap="round" />
-    </svg>
+      <span>Recreation Opportunities</span>
+      <span>{showRecreationPanel ? "▲" : "▼"}</span>
+    </button>
   </div>
 
-  <span>Hiking Routes</span>
+  {showRecreationPanel && (
+    <div style={{ borderTop: "1px solid #e5e7e3", marginTop: "10px", paddingTop: "8px" }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "5px" }}>
+        <span style={{ fontSize: "11px", color: "#68736c", fontWeight: 700, letterSpacing: "0.6px", textTransform: "uppercase" }}>
+          Activity filters
+        </span>
+        <button
+          type="button"
+          onClick={() => setSelectedActivities(
+            selectedActivities.length === TRAIL_ACTIVITY_OPTIONS.length
+              ? []
+              : [...TRAIL_ACTIVITY_OPTIONS]
+          )}
+          style={{ border: 0, background: "none", padding: 0, color: "#426b59", fontSize: "11px", fontWeight: 700, cursor: "pointer" }}
+        >
+          {selectedActivities.length === TRAIL_ACTIVITY_OPTIONS.length ? "Clear all" : "Select all"}
+        </button>
+      </div>
+
+      {TRAIL_ACTIVITY_OPTIONS.map((activity) => (
+        <label
+          key={activity}
+          style={{
+            display: "flex",
+            alignItems: "center",
+            gap: "9px",
+            padding: "5px 0",
+            cursor: "pointer",
+            opacity: showRecreation ? 1 : 0.45,
+          }}
+        >
+          <input
+            type="checkbox"
+            checked={selectedActivities.includes(activity)}
+            disabled={!showRecreation}
+            onChange={(e) => setSelectedActivities((previous) =>
+              e.target.checked
+                ? [...previous, activity]
+                : previous.filter((item) => item !== activity)
+            )}
+          />
+          <span style={{
+            width: "12px",
+            height: "12px",
+            borderRadius: "50%",
+            background: ACTIVITY_STYLES[activity].color,
+            border: "1px solid rgba(0,0,0,0.2)",
+            flexShrink: 0,
+          }} />
+          <span>{activity}</span>
+        </label>
+      ))}
+      <div style={{ borderTop: "1px solid #eef0ed", marginTop: "5px", paddingTop: "7px", fontSize: "11px", color: "#68736c" }}>
+        Includes curated hiking routes and USFS recreation access points.
+      </div>
+    </div>
+  )}
 </div>
-
-
 
 {/* Fullscreen image modal */}
 {fullscreenImage && (
@@ -432,13 +431,22 @@ const [elevationData, setElevationData] =
         {/* Basemap */}
         <MaptoolkitBasemap showTopo={true} />
 
+        {/* Unified recreation opportunities: curated trails and USFS access points */}
+        {showRecreation && (
+          <TrailheadsLayer
+            selectedActivities={selectedActivities}
+            curatedTrips={trips}
+            onSelectTrip={setSelectedTrip}
+          />
+        )}
+
         {/* Public land management overlay */}
 <LandManagementLayer
   selectedManagers={selectedLandManagers}
 />
 
         {/* Route layer */}
-        {selectedTrip?.routeFile && (
+        {showRecreation && selectedActivities.includes("Hiking") && selectedTrip?.routeFile && (
           <RouteLayer
   file={selectedTrip.routeFile}
 
@@ -449,7 +457,7 @@ const [elevationData, setElevationData] =
         )}
 
 {/* Photo markers */}
-{selectedTrip?.photos?.map((photo) => (
+{showRecreation && selectedActivities.includes("Hiking") && selectedTrip?.photos?.map((photo) => (
   <Marker
     key={photo.image}
 
@@ -492,74 +500,7 @@ const [elevationData, setElevationData] =
   </Marker>
 ))}
 
-        {/* Trail markers */}
-        {showRoutes &&
-  trips.map((trip) => (
-<Marker
-  key={trip.slug}
 
-  position={[
-    trip.lat,
-    trip.lng
-  ]}
-
-  icon={icon}
-
-  eventHandlers={{
-    click: () => {
-      setSelectedTrip(trip)
-    }
-  }}
->
-<Tooltip
-  direction="top"
-  offset={[0, -28]}
-  opacity={1}
-  sticky={false}
-  permanent={false}
-  className="custom-tooltip"
->
-  <div className="trail-card">
-    <div className="trail-card__header">
-      <div className="trail-card__icon">
-        <svg
-          viewBox="0 0 32 32"
-          aria-hidden="true"
-        >
-          <circle cx="18" cy="4.5" r="2.8" fill="#FFF8E9" />
-          <rect x="11.5" y="9" width="5" height="8" rx="2" fill="#FFF8E9" />
-          <path d="M17 9 L15 17" stroke="#FFF8E9" strokeWidth="3" strokeLinecap="round" />
-          <path d="M16 11 L21 14 L23 11" stroke="#FFF8E9" strokeWidth="2.4" fill="none" strokeLinecap="round" strokeLinejoin="round" />
-          <path d="M14 12 L10 17" stroke="#FFF8E9" strokeWidth="2.4" fill="none" strokeLinecap="round" />
-          <path d="M15 17 L13 22 L10 28 M15 17 L18 22 L20 28" stroke="#FFF8E9" strokeWidth="2.8" fill="none" strokeLinecap="round" strokeLinejoin="round" />
-          <path d="M9 16 L5 29 M24 12 L24 29" stroke="#FFF8E9" strokeWidth="1.8" fill="none" strokeLinecap="round" />
-        </svg>
-      </div>
-
-      <div className="trail-card__heading">
-        <div className="trail-card__eyebrow">
-          WILDERNESS TRAIL
-        </div>
-
-        <div className="trail-card__title">
-          {trip.title}
-        </div>
-      </div>
-    </div>
-
-    <div className="trail-card__divider" />
-
-    <div className="trail-card__description">
-      {trip.description}
-    </div>
-
-    <div className="trail-card__footer">
-      EXPLORE NEW MEXICO
-    </div>
-  </div>
-</Tooltip>
-</Marker>
-        ))}
       </MapContainer>
     </div>
   )

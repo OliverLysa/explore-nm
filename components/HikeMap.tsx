@@ -20,7 +20,9 @@ import { trips, Trip } from "../data/trips"
 
 import ElevationChart from "./ElevationChart"
 
-import LandManagementLayer from "./LandManagementLayer";
+import LandManagementLayer, {
+  LAND_MANAGER_OPTIONS,
+} from "./LandManagementLayer";
 
 // Hiking trail marker
 const icon = L.divIcon({
@@ -102,6 +104,15 @@ export default function HikeMap() {
 
   const [showRoutes, setShowRoutes] =
   useState(true)
+
+
+  const [selectedLandManagers, setSelectedLandManagers] =
+  useState<string[]>(
+    LAND_MANAGER_OPTIONS.map((manager) => manager.id)
+  );
+
+const [showLandLegend, setShowLandLegend] =
+  useState(false);
 
 
 const [fullscreenImage, setFullscreenImage] =
@@ -241,6 +252,7 @@ const [elevationData, setElevationData] =
 </div>
 
 
+
 {/* Fullscreen image modal */}
 {fullscreenImage && (
   <div
@@ -285,6 +297,128 @@ const [elevationData, setElevationData] =
   </div>
 )}
 
+
+{/* Public land managers control */}
+<div
+  style={{
+    position: "absolute",
+    bottom: 20,
+    left: 20,
+    zIndex: 1000,
+    width: "250px",
+    background: "rgba(255,255,255,0.96)",
+    borderRadius: "12px",
+    boxShadow: "0 3px 12px rgba(0,0,0,0.2)",
+    padding: "12px 14px",
+    fontSize: "13px",
+  }}
+>
+  {/* Legend heading */}
+  <div
+    style={{
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "space-between",
+      gap: "8px",
+    }}
+  >
+    <button
+      onClick={() => setShowLandLegend(!showLandLegend)}
+      style={{
+        border: "none",
+        background: "none",
+        padding: 0,
+        cursor: "pointer",
+        fontWeight: 700,
+        fontSize: "14px",
+        textAlign: "left",
+        flex: 1,
+      }}
+    >
+      Public Land Managers
+      <span style={{ marginLeft: "8px" }}>
+        {showLandLegend ? "▼" : "▲"}
+      </span>
+    </button>
+
+    <label
+      title="Toggle all public land managers"
+      style={{
+        display: "flex",
+        alignItems: "center",
+        gap: "5px",
+        cursor: "pointer",
+        fontSize: "12px",
+        whiteSpace: "nowrap",
+      }}
+    >
+      All
+      <input
+        type="checkbox"
+        checked={
+          selectedLandManagers.length === LAND_MANAGER_OPTIONS.length
+        }
+        onChange={(e) =>
+          setSelectedLandManagers(
+            e.target.checked
+              ? LAND_MANAGER_OPTIONS.map((manager) => manager.id)
+              : []
+          )
+        }
+      />
+    </label>
+  </div>
+
+  {/* Individual manager controls */}
+  {showLandLegend && (
+    <div
+      style={{
+        marginTop: "10px",
+        borderTop: "1px solid #e5e5e5",
+        paddingTop: "8px",
+      }}
+    >
+      {LAND_MANAGER_OPTIONS.map((manager) => (
+        <label
+          key={manager.id}
+          style={{
+            display: "flex",
+            alignItems: "center",
+            gap: "9px",
+            padding: "4px 0",
+            cursor: "pointer",
+          }}
+        >
+          <input
+            type="checkbox"
+            checked={selectedLandManagers.includes(manager.id)}
+            onChange={(e) => {
+              setSelectedLandManagers((previous) =>
+                e.target.checked
+                  ? [...previous, manager.id]
+                  : previous.filter((id) => id !== manager.id)
+              );
+            }}
+          />
+
+          <span
+            style={{
+              width: "14px",
+              height: "14px",
+              backgroundColor: manager.color,
+              border: "1px solid #777",
+              borderRadius: "3px",
+              flexShrink: 0,
+            }}
+          />
+
+          <span>{manager.label}</span>
+        </label>
+      ))}
+    </div>
+  )}
+</div>
+
       <MapContainer
         center={[33.7, -107.5]}
 
@@ -299,7 +433,9 @@ const [elevationData, setElevationData] =
         <MaptoolkitBasemap showTopo={true} />
 
         {/* Public land management overlay */}
-        <LandManagementLayer />
+<LandManagementLayer
+  selectedManagers={selectedLandManagers}
+/>
 
         {/* Route layer */}
         {selectedTrip?.routeFile && (
